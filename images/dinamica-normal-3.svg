@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="85mm"
+   height="30mm"
+   viewBox="0 0 85 30"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="dinamica-normal-3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0116647"
+     inkscape:cx="141.35119"
+     inkscape:cy="125.04143"
+     inkscape:window-width="1390"
+     inkscape:window-height="953"
+     inkscape:window-x="626"
+     inkscape:window-y="47"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round"
+       d="m 78.133558,3.6815067 c -4.56716,4.5671619 -10.005477,8.2631663 -16.044319,10.8173813 -6.038841,2.554214 -12.678205,3.966638 -19.64746,3.966638 -6.969254,0 -13.608618,-1.412424 -19.647459,-3.966638 C 16.755479,11.944673 11.317161,8.2486686 6.7500001,3.6815067"
+       id="path1073"
+       sodipodi:nodetypes="csssc" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none"
+       id="path1087"
+       cx="6.7500005"
+       cy="3.6815069"
+       r="1" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none"
+       id="path1087-6"
+       cx="42.441784"
+       cy="18.465527"
+       r="1" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none"
+       id="path1087-6-2"
+       cx="22.794317"
+       cy="14.498886"
+       r="1" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none"
+       id="path1087-6-7"
+       cx="62.089241"
+       cy="14.498886"
+       r="1" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none"
+       id="path1087-6-0"
+       cx="78.133553"
+       cy="3.6815069"
+       r="1" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:0px;font-family:jost;-inkscape-font-specification:jost;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none"
+       x="2.5491464"
+       y="10.13448"
+       id="text7084"><tspan
+         sodipodi:role="line"
+         id="tspan7082"
+         style="stroke-width:0.3"
+         x="2.5491464"
+         y="10.13448">$A$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:0px;font-family:jost;-inkscape-font-specification:jost;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.424145"
+       y="20.717815"
+       id="text7088"><tspan
+         sodipodi:role="line"
+         id="tspan7086"
+         style="stroke-width:0.3"
+         x="18.424145"
+         y="20.717815">$B$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:0px;font-family:jost;-inkscape-font-specification:jost;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none"
+       x="39.590816"
+       y="26.00948"
+       id="text7092"><tspan
+         sodipodi:role="line"
+         id="tspan7090"
+         style="stroke-width:0.3"
+         x="39.590816"
+         y="26.00948">$C$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:0px;font-family:jost;-inkscape-font-specification:jost;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none"
+       x="60.757488"
+       y="20.717815"
+       id="text7146"><tspan
+         sodipodi:role="line"
+         id="tspan7144"
+         style="stroke-width:0.3"
+         x="60.757488"
+         y="20.717815">$D$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:0px;font-family:jost;-inkscape-font-specification:jost;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none"
+       x="76.632477"
+       y="10.13448"
+       id="text7150"><tspan
+         sodipodi:role="line"
+         id="tspan7148"
+         style="stroke-width:0.3"
+         x="76.632477"
+         y="10.13448">$E$</tspan></text>
+  </g>
+</svg>

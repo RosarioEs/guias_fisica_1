@@ -1,0 +1,87 @@
+%% Creator: Inkscape 1.2.2 (b0a84865, 2022-12-01), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'ch1-mruv-2.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{453.54330709bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.75)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{ch1-mruv-2.pdf}}%
+    \put(0.14907354,0.46139638){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.31443815,0.46139638){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
+    \put(0.15177227,0.65925764){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$x$\end{tabular}}}}%
+    \put(0.18863281,0.71966405){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}Gráfico 1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{ch1-mruv-2.pdf}}%
+    \put(0.47980275,0.46139638){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.64516726,0.46139638){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
+    \put(0.48250146,0.65925764){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$x$\end{tabular}}}}%
+    \put(0.51936198,0.71966405){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}Gráfico 2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{ch1-mruv-2.pdf}}%
+    \put(0.81053171,0.46139638){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.97589645,0.46139638){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
+    \put(0.81323051,0.65925764){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$x$\end{tabular}}}}%
+    \put(0.85009118,0.71966405){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}Gráfico 3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{ch1-mruv-2.pdf}}%
+    \put(0.14907354,0.06452155){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.31443815,0.06452155){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
+    \put(0.15177227,0.26238265){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$x$\end{tabular}}}}%
+    \put(0.18863281,0.32278905){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}Gráfico 4\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{ch1-mruv-2.pdf}}%
+    \put(0.47980275,0.06452155){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.64516726,0.06452155){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
+    \put(0.48250146,0.26238265){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$x$\end{tabular}}}}%
+    \put(0.51936198,0.32278905){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}Gráfico 5\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{ch1-mruv-2.pdf}}%
+    \put(0.81053171,0.06452155){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.97589645,0.06452155){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
+    \put(0.81323051,0.26238265){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$x$\end{tabular}}}}%
+    \put(0.85009118,0.32278905){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}Gráfico 6\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

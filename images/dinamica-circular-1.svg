@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="60mm"
+   viewBox="0 0 50 60"
+   version="1.1"
+   id="svg4131"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="dinamica-circular-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4133"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4307099"
+     inkscape:cx="227.85892"
+     inkscape:cy="111.48312"
+     inkscape:window-width="1390"
+     inkscape:window-height="953"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4128">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4496"
+       id="linearGradient1875"
+       x1="-219.09314"
+       y1="167.2131"
+       x2="-146.5619"
+       y2="167.2131"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(186.15614,-135.81369)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4496">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4492" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4494" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       d="m 5.5930355,51.037669 c 0,-3.61777 7.5554695,-6.55055 16.8755995,-6.55055 9.32013,0 16.8756,2.93278 16.8756,6.55055"
+       id="path1864"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Resueltos F1\PNG\U2EJ35.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path1862"
+       style="fill:url(#linearGradient1875);fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 22.468635,57.588229 c -9.32014,0 -16.8756095,-2.93279 -16.8755995,-6.55056 L 22.468635,5.2105393 39.344235,51.037669 c 1e-5,3.61777 -7.55546,6.55056 -16.8756,6.55056"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Resueltos F1\PNG\U2EJ35.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
+       id="circle1865-1"
+       cx="34.877907"
+       cy="33.477814"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Resueltos F1\PNG\U2EJ35.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       r="3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 22.468635,5.2105393 V 51.037669"
+       id="path1893"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Resueltos F1\PNG\U2EJ35.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <flowRoot
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       xml:space="preserve"
+       id="flowRoot1521-2-9-3-9-0-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.02522"
+       transform="matrix(0.13064405,0,0,0.13064405,16.898644,-28.73302)"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Resueltos F1\PNG\U2EJ35.png"><flowRegion
+         id="flowRegion1515-6-3-2-7-9-6"
+         style="stroke-width:2.02522"><rect
+           id="rect1513-8-3-5-1-5-5"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935"
+           style="stroke-width:2.02522" /></flowRegion><flowPara
+         id="flowPara1519-5-9-6-1-0-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:2.02522">$L$</flowPara></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 33.604005,25.977529 c 0,0 -3.5238,6.44594 -12.63101,5.03559"
+       id="path2094-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Resueltos F1\PNG\U2EJ35.png" />
+    <path
+       id="path2972"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.171445,4.8455193 c 1.60736,-1.07733 5.11506,9.4738597 5.11506,9.4738597 0,0 0.73565,2.12652 2.3316,2.14217 m 3.17442,13.52359 c 1.86301,-0.47219 -3.24318,-10.30971 -3.24318,-10.30971 0,0 -1.00952,-2.00423 0.0687,-3.21388"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Resueltos F1\PNG\U2EJ35.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot882"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.06223"
+       transform="matrix(0.08640219,0,0,0.08640219,9.4487365,-1.667616)"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Resueltos F1\PNG\U2EJ35.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion878"
+         style="stroke-width:3.06223"><rect
+           id="rect876"
+           width="189.07286"
+           height="113.45811"
+           x="150.68999"
+           y="314.73935"
+           style="stroke-width:3.06223" /></flowRegion><flowPara
+         id="flowPara880"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';stroke-width:3.06223">$\alpha$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot882-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.3261"
+       transform="matrix(0.11374533,0,0,0.11374533,23.295327,-3.6133065)"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Resueltos F1\PNG\U2EJ35.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion878-6"
+         style="stroke-width:2.3261"><rect
+           id="rect876-6"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935"
+           style="stroke-width:2.3261" /></flowRegion><flowPara
+         id="flowPara880-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:2.3261">$m$</flowPara></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.468635,5.2105393 34.877905,33.477809"
+       id="path2048"
+       inkscape:export-filename="C:\Backup\Academic\My Notes\Resueltos F1\PNG\U2EJ35.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60mm"
+   height="60mm"
+   viewBox="0 0 60 60"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="mate-trig-7.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71535494"
+     inkscape:cx="127.20958"
+     inkscape:cy="192.21227"
+     inkscape:window-width="994"
+     inkscape:window-height="953"
+     inkscape:window-x="2464"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 54.398789,5.2306542 V 54.660323 H 4.9691198 Z"
+       id="path801" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.55654,43.072902 c 0,0 7.833578,3.135783 7.833578,11.587421"
+       id="path920" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 39.7892,39.307826 c 0,0 -9.077319,1.154889 -13.303138,-6.164445"
+       id="path922"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 39.789198,54.660322 V 19.840242"
+       id="path1020" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:0px;font-family:arial;-inkscape-font-specification:arial;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       x="31.972311"
+       y="32.968124"
+       id="text1076"><tspan
+         sodipodi:role="line"
+         id="tspan1074"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="31.972311"
+         y="32.968124">$\beta$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:0px;font-family:arial;-inkscape-font-specification:arial;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       x="13.294229"
+       y="52.016071"
+       id="text1130"><tspan
+         sodipodi:role="line"
+         id="tspan1128"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="13.294229"
+         y="52.016071">$\theta$</tspan></text>
+  </g>
+</svg>
