@@ -1,6 +1,6 @@
 %% Creator: Inkscape 1.2.2 (b0a84865, 2022-12-01), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
-%% Accompanies image file 'ch1-mruv-3.pdf' (pdf, eps, ps)
+%% Accompanies image file 'ch3-cantmov-1.pdf' (pdf, eps, ps)
 %%
 %% To include the image in your LaTeX document, write
 %%   \input{<filename>.pdf_tex}
@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{311.81102362bp}%
+    \setlength{\unitlength}{510.23622047bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,17 +50,16 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.77272727)%
+  \begin{picture}(1,0.38888889)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0,0){\includegraphics[width=\unitlength,page=1]{ch1-mruv-3.pdf}}%
-    \put(0.29393474,0.55180877){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}Auto\end{tabular}}}}%
-    \put(0.72189726,0.4555172){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}Moto\end{tabular}}}}%
-    \put(0.10135162,0.71084856){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$v \, \sqb{\kmph}$\end{tabular}}}}%
-    \put(0.91179456,0.13658829){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$t \, \sqb{\s}$\end{tabular}}}}%
-    \put(0.06872005,0.09973588){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$0$\end{tabular}}}}%
-    \put(0.43161583,0.09973588){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$4$\end{tabular}}}}%
-    \put(0.04526079,0.41833014){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$54$\end{tabular}}}}%
-    \put(0.04526079,0.61091328){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$90$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{ch3-cantmov-1.pdf}}%
+    \put(0.005,0.17936239){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{3.9333334}\smash{\begin{tabular}[t]{l}$4\,\m$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{ch3-cantmov-1.pdf}}%
+    \put(0.15674948,0.12704699){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{3.9333334}\smash{\begin{tabular}[t]{l}$A$\end{tabular}}}}%
+    \put(0.87627697,0.10735504){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{3.9333334}\smash{\begin{tabular}[t]{l}$B$\end{tabular}}}}%
+    \put(0.13620153,0.19503066){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{3.9333334}\smash{\begin{tabular}[t]{l}$C$\end{tabular}}}}%
+    \put(0.35,0.1){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{3.9333334}\smash{\begin{tabular}[t]{l}$2\,\m$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{ch3-cantmov-1.pdf}}%
   \end{picture}%
 \endgroup%

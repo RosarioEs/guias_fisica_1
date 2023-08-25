@@ -61,7 +61,7 @@
     \put(0.67598863,0.2769422){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$15$\end{tabular}}}}%
     \put(0.82561099,0.2769422){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$20$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{ch1-mruv-5.pdf}}%
-    \put(0.10529094,0.62743429){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$v\,\sqb{\ms}$\end{tabular}}}}%
+    \put(0.10529094,0.62743429){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$v\,\sqb{\mps}$\end{tabular}}}}%
     \put(0.87756846,0.36330062){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$t\,\sqb{\s}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%
