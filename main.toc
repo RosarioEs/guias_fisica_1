@@ -22,9 +22,9 @@
 \contentsline {section}{\numberline {2.8}Oscilaciones}{38}{section.2.8}%
 \contentsline {chapter}{\numberline {3}Cantidad de movimiento y energía}{43}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Conservación de la cantidad de movimiento lineal}{43}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Trabajo}{43}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Conservación de la energía}{43}{section.3.3}%
-\contentsline {chapter}{\numberline {A}Conocimientos previos de matemática}{45}{appendix.Alph1}%
-\contentsline {section}{\numberline {A.1}Trigonometría}{45}{section.Alph1.1}%
-\contentsline {section}{\numberline {A.2}Vectores}{49}{section.Alph1.2}%
-\contentsline {section}{\numberline {A.3}Derivadas e integrales}{51}{section.Alph1.3}%
+\contentsline {section}{\numberline {3.2}Trabajo}{46}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Conservación de la energía}{46}{section.3.3}%
+\contentsline {chapter}{\numberline {A}Conocimientos previos de matemática}{47}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Trigonometría}{47}{section.Alph1.1}%
+\contentsline {section}{\numberline {A.2}Vectores}{51}{section.Alph1.2}%
+\contentsline {section}{\numberline {A.3}Derivadas e integrales}{53}{section.Alph1.3}%

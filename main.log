@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.2)  17 SEP 2023 22:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.2)  14 OCT 2023 20:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1774,181 +1774,206 @@ LaTeX Info: Redefining \% on input line 1682.
 ]
 Cap\'{\i }tulo 3.
 Package mdframed Info: mdframed works in twoside mode on input line 1687.
-(./images/ch3-cantmov-1.pdf_tex
-<./images/ch3-cantmov-1.pdf, id=1053, page=1, 512.1496pt x 199.1693pt>
+Package mdframed Info: mdframed works in twoside mode on input line 1695.
+Package mdframed Info: mdframed works in twoside mode on input line 1705.
+Package mdframed Info: mdframed works in twoside mode on input line 1713.
+Package mdframed Info: mdframed works in twoside mode on input line 1721.
+Package mdframed Info: Not enough space on this page on input line 1726.
+[43]
+Package mdframed Info: Not enough space on this page on input line 1726.
+Package mdframed Info: mdframed works in twoside mode on input line 1728.
+Package mdframed Info: mdframed works in twoside mode on input line 1736.
+Package mdframed Info: mdframed works in twoside mode on input line 1748.
+Package mdframed Info: mdframed works in twoside mode on input line 1761.
+LaTeX Info: Redefining \. on input line 1772.
+LaTeX Info: Redefining \% on input line 1772.
+ [44]
+Package mdframed Info: mdframed works in twoside mode on input line 1774.
+Package mdframed Info: mdframed works in twoside mode on input line 1792.
+Package mdframed Info: mdframed works in twoside mode on input line 1801.
+Package mdframed Info: mdframed works in twoside mode on input line 1819.
+Package mdframed Info: Not enough space on this page on input line 1827.
+LaTeX Info: Redefining \. on input line 1827.
+LaTeX Info: Redefining \% on input line 1827.
+ [45]
+Package mdframed Info: Not enough space on this page on input line 1827.
+Package mdframed Info: mdframed works in twoside mode on input line 1829.
+Package mdframed Info: mdframed works in twoside mode on input line 1849.
+ (./images/ch3-cantmov-1.pdf_tex
+<./images/ch3-cantmov-1.pdf, id=1099, page=1, 512.1496pt x 199.1693pt>
 File: ./images/ch3-cantmov-1.pdf Graphic file (type pdf)
 <use ./images/ch3-cantmov-1.pdf, page 1>
 Package pdftex.def Info: ./images/ch3-cantmov-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 368.7189pt x 143.39569pt.
-<./images/ch3-cantmov-1.pdf, id=1054, page=2, 512.1496pt x 199.1693pt>
+<./images/ch3-cantmov-1.pdf, id=1100, page=2, 512.1496pt x 199.1693pt>
 File: ./images/ch3-cantmov-1.pdf Graphic file (type pdf)
 <use ./images/ch3-cantmov-1.pdf, page 2>
 Package pdftex.def Info: ./images/ch3-cantmov-1.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 368.7189pt x 143.39569pt.
-<./images/ch3-cantmov-1.pdf, id=1055, page=3, 512.1496pt x 199.1693pt>
+<./images/ch3-cantmov-1.pdf, id=1101, page=3, 512.1496pt x 199.1693pt>
 File: ./images/ch3-cantmov-1.pdf Graphic file (type pdf)
 <use ./images/ch3-cantmov-1.pdf, page 3>
 Package pdftex.def Info: ./images/ch3-cantmov-1.pdf , page3 used on input line 63.
 (pdftex.def)             Requested size: 368.7189pt x 143.39569pt.
-) [43 <./images/ch3-cantmov-1.pdf> <./images/ch3-cantmov-1.pdf
+)
+LaTeX Info: Redefining \. on input line 1864.
+LaTeX Info: Redefining \% on input line 1864.
+ [46 <./images/ch3-cantmov-1.pdf> <./images/ch3-cantmov-1.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/ch3-cantmov-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./images/ch3-cantmov-1.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/ch3-cantmov-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-LaTeX Info: Redefining \. on input line 1708.
-LaTeX Info: Redefining \% on input line 1708.
- [44
-
-]
 Ap\'{e}ndice A.
-Package mdframed Info: mdframed works in twoside mode on input line 1716.
+Package mdframed Info: mdframed works in twoside mode on input line 1872.
 (./images/mate-1.pdf_tex
-<./images/mate-1.pdf, id=1067, page=1, 341.43306pt x 256.0748pt>
+<./images/mate-1.pdf, id=1114, page=1, 341.43306pt x 256.0748pt>
 File: ./images/mate-1.pdf Graphic file (type pdf)
 <use ./images/mate-1.pdf, page 1>
 Package pdftex.def Info: ./images/mate-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 172.83911pt.
 )
-Package mdframed Info: mdframed works in twoside mode on input line 1728.
+Package mdframed Info: mdframed works in twoside mode on input line 1884.
  (./images/mate-2.pdf_tex
-<./images/mate-2.pdf, id=1068, page=1, 426.79132pt x 199.1693pt>
+<./images/mate-2.pdf, id=1115, page=1, 426.79132pt x 199.1693pt>
 File: ./images/mate-2.pdf Graphic file (type pdf)
 <use ./images/mate-2.pdf, page 1>
 Package pdftex.def Info: ./images/mate-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 107.54373pt.
-<./images/mate-2.pdf, id=1069, page=2, 426.79132pt x 199.1693pt>
+<./images/mate-2.pdf, id=1116, page=2, 426.79132pt x 199.1693pt>
 File: ./images/mate-2.pdf Graphic file (type pdf)
 <use ./images/mate-2.pdf, page 2>
 Package pdftex.def Info: ./images/mate-2.pdf , page2 used on input line 59.
 (pdftex.def)             Requested size: 230.44844pt x 107.54373pt.
-) [45 <./images/mate-1.pdf>]
-Package mdframed Info: mdframed works in twoside mode on input line 1740.
-Package mdframed Info: mdframed works in twoside mode on input line 1759.
+) [47
+
+ <./images/mate-1.pdf>]
+Package mdframed Info: mdframed works in twoside mode on input line 1896.
+Package mdframed Info: mdframed works in twoside mode on input line 1915.
  (./images/mate-3.pdf_tex
-<./images/mate-3.pdf, id=1079, page=1, 341.43306pt x 256.0748pt>
+<./images/mate-3.pdf, id=1125, page=1, 341.43306pt x 256.0748pt>
 File: ./images/mate-3.pdf Graphic file (type pdf)
 <use ./images/mate-3.pdf, page 1>
 Package pdftex.def Info: ./images/mate-3.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 184.35593pt x 138.27051pt.
 )
-Package mdframed Info: mdframed works in twoside mode on input line 1769.
-Package mdframed Info: mdframed works in twoside mode on input line 1776.
+Package mdframed Info: mdframed works in twoside mode on input line 1925.
+Package mdframed Info: mdframed works in twoside mode on input line 1932.
  (./images/mate-4.pdf_tex
-<./images/mate-4.pdf, id=1080, page=1, 512.1496pt x 170.71654pt>
+<./images/mate-4.pdf, id=1126, page=1, 512.1496pt x 170.71654pt>
 File: ./images/mate-4.pdf Graphic file (type pdf)
 <use ./images/mate-4.pdf, page 1>
 Package pdftex.def Info: ./images/mate-4.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 368.7189pt x 122.91058pt.
 )
-LaTeX Info: Redefining \. on input line 1785.
-LaTeX Info: Redefining \% on input line 1785.
- [46 <./images/mate-2.pdf> <./images/mate-2.pdf
+LaTeX Info: Redefining \. on input line 1941.
+LaTeX Info: Redefining \% on input line 1941.
+ [48 <./images/mate-2.pdf> <./images/mate-2.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/mate-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./images/mate-3.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/mate-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Package mdframed Info: mdframed works in twoside mode on input line 1787.
-Package mdframed Info: mdframed works in twoside mode on input line 1796.
+Package mdframed Info: mdframed works in twoside mode on input line 1943.
+Package mdframed Info: mdframed works in twoside mode on input line 1952.
  (./images/mate-5.pdf_tex
-<./images/mate-5.pdf, id=1094, page=1, 341.43306pt x 256.0748pt>
+<./images/mate-5.pdf, id=1140, page=1, 341.43306pt x 256.0748pt>
 File: ./images/mate-5.pdf Graphic file (type pdf)
 <use ./images/mate-5.pdf, page 1>
 Package pdftex.def Info: ./images/mate-5.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 172.83911pt.
 )
-Package mdframed Info: mdframed works in twoside mode on input line 1812.
+Package mdframed Info: mdframed works in twoside mode on input line 1968.
  (./images/mate-6.pdf_tex
-<./images/mate-6.pdf, id=1095, page=1, 512.1496pt x 284.52756pt>
+<./images/mate-6.pdf, id=1141, page=1, 512.1496pt x 284.52756pt>
 File: ./images/mate-6.pdf Graphic file (type pdf)
 <use ./images/mate-6.pdf, page 1>
 Package pdftex.def Info: ./images/mate-6.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 414.80437pt x 230.45303pt.
-<./images/mate-6.pdf, id=1096, page=2, 512.1496pt x 284.52756pt>
+<./images/mate-6.pdf, id=1142, page=2, 512.1496pt x 284.52756pt>
 File: ./images/mate-6.pdf Graphic file (type pdf)
 <use ./images/mate-6.pdf, page 2>
 Package pdftex.def Info: ./images/mate-6.pdf , page2 used on input line 62.
 (pdftex.def)             Requested size: 414.80437pt x 230.45303pt.
 )
-LaTeX Info: Redefining \. on input line 1822.
-LaTeX Info: Redefining \% on input line 1822.
- [47 <./images/mate-4.pdf> <./images/mate-5.pdf
+LaTeX Info: Redefining \. on input line 1978.
+LaTeX Info: Redefining \% on input line 1978.
+ [49 <./images/mate-4.pdf> <./images/mate-5.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/mate-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Package mdframed Info: Not enough space on this page on input line 1822.
-Package mdframed Info: mdframed works in twoside mode on input line 1824.
-Package mdframed Info: mdframed works in twoside mode on input line 1834.
+Package mdframed Info: Not enough space on this page on input line 1978.
+Package mdframed Info: mdframed works in twoside mode on input line 1980.
+Package mdframed Info: mdframed works in twoside mode on input line 1990.
  (./images/mate-7.pdf_tex
-<./images/mate-7.pdf, id=1106, page=1, 170.71654pt x 170.71654pt>
+<./images/mate-7.pdf, id=1153, page=1, 170.71654pt x 170.71654pt>
 File: ./images/mate-7.pdf Graphic file (type pdf)
 <use ./images/mate-7.pdf, page 1>
 Package pdftex.def Info: ./images/mate-7.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 92.17796pt x 92.18033pt.
 )
-LaTeX Info: Redefining \. on input line 1849.
-LaTeX Info: Redefining \% on input line 1849.
- [48 <./images/mate-6.pdf> <./images/mate-6.pdf
+LaTeX Info: Redefining \. on input line 2005.
+LaTeX Info: Redefining \% on input line 2005.
+ [50 <./images/mate-6.pdf> <./images/mate-6.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/mate-6.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./images/mate-7.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/mate-7.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Package mdframed Info: mdframed works in twoside mode on input line 1854.
-Package mdframed Info: mdframed works in twoside mode on input line 1866.
-Package mdframed Info: mdframed works in twoside mode on input line 1879.
-Package mdframed Info: mdframed works in twoside mode on input line 1892.
-LaTeX Info: Redefining \. on input line 1900.
-LaTeX Info: Redefining \% on input line 1900.
- [49]
-Package mdframed Info: mdframed works in twoside mode on input line 1902.
-Package mdframed Info: mdframed works in twoside mode on input line 1913.
-Package mdframed Info: mdframed works in twoside mode on input line 1919.
-Package mdframed Info: mdframed works in twoside mode on input line 1932.
-Package mdframed Info: mdframed works in twoside mode on input line 1938.
-Package mdframed Info: mdframed works in twoside mode on input line 1948.
-Package mdframed Info: mdframed works in twoside mode on input line 1957.
-LaTeX Info: Redefining \. on input line 1966.
-LaTeX Info: Redefining \% on input line 1966.
- [50]
-Package mdframed Info: mdframed works in twoside mode on input line 1968.
-Package mdframed Info: mdframed works in twoside mode on input line 1979.
-Package mdframed Info: mdframed works in twoside mode on input line 1986.
-Package mdframed Info: mdframed works in twoside mode on input line 1996.
-Package mdframed Info: mdframed works in twoside mode on input line 2002.
-LaTeX Info: Redefining \. on input line 2013.
-LaTeX Info: Redefining \% on input line 2013.
+Package mdframed Info: mdframed works in twoside mode on input line 2010.
+Package mdframed Info: mdframed works in twoside mode on input line 2022.
+Package mdframed Info: mdframed works in twoside mode on input line 2035.
+Package mdframed Info: mdframed works in twoside mode on input line 2048.
+LaTeX Info: Redefining \. on input line 2056.
+LaTeX Info: Redefining \% on input line 2056.
  [51]
-Package mdframed Info: mdframed works in twoside mode on input line 2015.
-Package mdframed Info: mdframed works in twoside mode on input line 2026.
-Package mdframed Info: mdframed works in twoside mode on input line 2045.
-Package mdframed Info: mdframed works in twoside mode on input line 2055.
-Package mdframed Info: mdframed works in twoside mode on input line 2061.
+Package mdframed Info: mdframed works in twoside mode on input line 2058.
+Package mdframed Info: mdframed works in twoside mode on input line 2069.
+Package mdframed Info: mdframed works in twoside mode on input line 2075.
+Package mdframed Info: mdframed works in twoside mode on input line 2088.
+Package mdframed Info: mdframed works in twoside mode on input line 2094.
+Package mdframed Info: mdframed works in twoside mode on input line 2104.
+Package mdframed Info: mdframed works in twoside mode on input line 2113.
+LaTeX Info: Redefining \. on input line 2122.
+LaTeX Info: Redefining \% on input line 2122.
+ [52]
+Package mdframed Info: mdframed works in twoside mode on input line 2124.
+Package mdframed Info: mdframed works in twoside mode on input line 2135.
+Package mdframed Info: mdframed works in twoside mode on input line 2142.
+Package mdframed Info: mdframed works in twoside mode on input line 2152.
+Package mdframed Info: mdframed works in twoside mode on input line 2158.
+LaTeX Info: Redefining \. on input line 2169.
+LaTeX Info: Redefining \% on input line 2169.
+ [53]
+Package mdframed Info: mdframed works in twoside mode on input line 2171.
+Package mdframed Info: mdframed works in twoside mode on input line 2182.
+Package mdframed Info: mdframed works in twoside mode on input line 2201.
+Package mdframed Info: mdframed works in twoside mode on input line 2211.
+Package mdframed Info: mdframed works in twoside mode on input line 2217.
  (./images/mate-8.pdf_tex
-<./images/mate-8.pdf, id=1196, page=1, 170.71654pt x 170.71654pt>
+<./images/mate-8.pdf, id=1242, page=1, 170.71654pt x 170.71654pt>
 File: ./images/mate-8.pdf Graphic file (type pdf)
 <use ./images/mate-8.pdf, page 1>
 Package pdftex.def Info: ./images/mate-8.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 138.27046pt x 138.27962pt.
 )
-Package mdframed Info: Not enough space on this page on input line 2076.
-LaTeX Info: Redefining \. on input line 2076.
-LaTeX Info: Redefining \% on input line 2076.
- [52]
-Package mdframed Info: Not enough space on this page on input line 2076.
-Package mdframed Info: mdframed works in twoside mode on input line 2078.
-Package mdframed Info: mdframed works in twoside mode on input line 2089.
-Package mdframed Info: mdframed works in twoside mode on input line 2096.
-LaTeX Info: Redefining \. on input line 2107.
-LaTeX Info: Redefining \% on input line 2107.
- [53 <./images/mate-8.pdf>]
-LaTeX Info: Redefining \. on input line 2110.
-LaTeX Info: Redefining \% on input line 2110.
- [54] (./main.aux
+Package mdframed Info: Not enough space on this page on input line 2232.
+LaTeX Info: Redefining \. on input line 2232.
+LaTeX Info: Redefining \% on input line 2232.
+ [54]
+Package mdframed Info: Not enough space on this page on input line 2232.
+Package mdframed Info: mdframed works in twoside mode on input line 2234.
+Package mdframed Info: mdframed works in twoside mode on input line 2245.
+Package mdframed Info: mdframed works in twoside mode on input line 2252.
+LaTeX Info: Redefining \. on input line 2263.
+LaTeX Info: Redefining \% on input line 2263.
+ [55 <./images/mate-8.pdf>]
+LaTeX Info: Redefining \. on input line 2266.
+LaTeX Info: Redefining \% on input line 2266.
+ [56] (./main.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
@@ -1960,18 +1985,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 91722FAA21EEE5F8D87D8FF567A45D10;4721.
  ) 
 Here is how much of TeX's memory you used:
- 30212 strings out of 474933
- 611583 string characters out of 5763794
+ 30297 strings out of 474933
+ 612967 string characters out of 5763794
  1961801 words of memory out of 5000000
- 50562 multiletter control sequences out of 15000+600000
+ 50607 multiletter control sequences out of 15000+600000
  570927 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  127i,21n,132p,819b,1107s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/esint-type1/esint10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (58 pages, 1050507 bytes).
+Output written on main.pdf (60 pages, 1061939 bytes).
 PDF statistics:
- 1471 PDF objects out of 1728 (max. 8388607)
- 1222 compressed objects within 13 object streams
- 594 named destinations out of 1000 (max. 500000)
+ 1525 PDF objects out of 1728 (max. 8388607)
+ 1274 compressed objects within 13 object streams
+ 634 named destinations out of 1000 (max. 500000)
  666 words of extra memory for PDF output out of 10000 (max. 10000000)
 

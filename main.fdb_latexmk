@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1694999939 "c:/Users/User/Desktop/guias_fisica_1/main.tex" "main.pdf" "main" 1694999954 0
-  "c:/Users/User/Desktop/guias_fisica_1/main.tex" 1694999919 107956 df5c5e52a2dd4b52858689f125a98738 ""
+["pdflatex"] 1697327762 "c:/Users/User/Desktop/guias_fisica_1/main.tex" "main.pdf" "main" 1697327788 0
+  "c:/Users/User/Desktop/guias_fisica_1/main.tex" 1697327737 117036 21664e61d2d454c4c8b9bf12983ba97d ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1693621436 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1693669169 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1693623035 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -210,7 +210,7 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1693691344 4703409 e46c3309a9f3771bafa9db35dbaa267a ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1693691524 8183805 789877b445771ccf4b5c119bad141215 ""
   "c:/texlive/2023/texmf.cnf" 1693691310 713 e69b156964470283e0530f5060668171 ""
-  "commands.tex" 1694999812 3565 9f39c94905241588b4d0cc63b0daf2e2 ""
+  "commands.tex" 1697322396 3565 9f39c94905241588b4d0cc63b0daf2e2 ""
   "images/ch1-esquiador.pdf" 1694999812 16599 7cd4c25f39a7ca8df8389c1cfcc406c1 ""
   "images/ch1-esquiador.pdf_tex" 1694999812 2808 294df5583a1aea4ec204a1d2b7fb88ec ""
   "images/ch1-mcu-1.pdf" 1694999814 3379 d849dcd7250b8b9b6bd14cf63bfe9c2a ""
@@ -308,10 +308,10 @@
   "images/mate-8.pdf" 1694999814 1287 c25407d544c15a90fbe6f981480af31b ""
   "images/mate-8.pdf_tex" 1694999814 2646 fe49b9c9e2b4ffac9532201c335bb60c ""
   "images/untref.png" 1694999814 26987 8841fc9513646599cf3379661f39bb36 ""
-  "main.aux" 1694999953 28663 72594a9722bc137d5218285afd3e0172 "pdflatex"
-  "main.out" 1694999953 4721 91722faa21eee5f8d87d8ff567a45d10 "pdflatex"
-  "main.tex" 1694999919 107956 df5c5e52a2dd4b52858689f125a98738 ""
-  "main.toc" 1694999953 2536 6eeddd472fc0994d488cab7f5b242d5d "pdflatex"
+  "main.aux" 1697327787 30654 4fc0aef75bfc4274dd62e7eb715b3f1f "pdflatex"
+  "main.out" 1697327787 4721 91722faa21eee5f8d87d8ff567a45d10 "pdflatex"
+  "main.tex" 1697327737 117036 21664e61d2d454c4c8b9bf12983ba97d ""
+  "main.toc" 1697327787 2536 c25f8d6e93ed59b2c5a7032f07ff1daf "pdflatex"
   "packages.tex" 1694999814 2623 6ab4cf767da5179348c1942bdc5ef5bd ""
   (generated)
   "main.aux"
