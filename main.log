@@ -1,25 +1,26 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.10.24)  24 OCT 2023 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.20)  20 NOV 2023 16:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/marti/Documents/guias_fisica_1/main.tex
-(c:/Users/marti/Documents/guias_fisica_1/main.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30> (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
-Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
+**c:/Users/marti/OneDrive/Documentos/guias_fisica_1/main.tex
+(c:/Users/marti/OneDrive/Documentos/guias_fisica_1/main.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
-File: bk12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@chapter=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
+\c@part=\count186
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -27,15 +28,15 @@ File: bk12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count194
-\Gm@cntv=\count195
-\c@Gm@tempcnt=\count196
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
 \Gm@bindingoffset=\dimen141
 \Gm@wd@mp=\dimen142
 \Gm@odd@mp=\dimen143
@@ -44,28 +45,28 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen146
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
-\Gm@dimlist=\toks17
+\Gm@dimlist=\toks18
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
-Package: siunitx 2023-10-07 v3.3.7 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count197
-\l__siunitx_number_exponent_fixed_int=\count198
-\l__siunitx_number_min_decimal_int=\count199
-\l__siunitx_number_min_integer_int=\count266
-\l__siunitx_number_round_precision_int=\count267
-\l__siunitx_number_lower_threshold_int=\count268
-\l__siunitx_number_upper_threshold_int=\count269
-\l__siunitx_number_group_first_int=\count270
-\l__siunitx_number_group_size_int=\count271
-\l__siunitx_number_group_minimum_int=\count272
+Package: siunitx 2023-11-14 v3.3.9 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count198
+\l__siunitx_number_exponent_fixed_int=\count199
+\l__siunitx_number_min_decimal_int=\count266
+\l__siunitx_number_min_integer_int=\count267
+\l__siunitx_number_round_precision_int=\count268
+\l__siunitx_number_lower_threshold_int=\count269
+\l__siunitx_number_upper_threshold_int=\count270
+\l__siunitx_number_group_first_int=\count271
+\l__siunitx_number_group_size_int=\count272
+\l__siunitx_number_group_minimum_int=\count273
 \l__siunitx_angle_tmp_dim=\dimen149
 \l__siunitx_angle_marker_box=\box51
 \l__siunitx_angle_unit_box=\box52
-\l__siunitx_compound_count_int=\count273
+\l__siunitx_compound_count_int=\count274
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count274
+\etb@tempcnta=\count275
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
@@ -80,7 +81,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 Package: amstext 2021/08/26 v2.01 AMS text
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
+\@emptytoks=\toks19
 \ex@=\dimen150
 ))
 \l__siunitx_table_tmp_box=\box53
@@ -93,15 +94,15 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 \l__siunitx_table_after_box=\box58
 \l__siunitx_table_before_dim=\dimen153
 \l__siunitx_table_carry_dim=\dimen154
-\l__siunitx_unit_tmp_int=\count275
-\l__siunitx_unit_position_int=\count276
-\l__siunitx_unit_total_int=\count277
+\l__siunitx_unit_tmp_int=\count276
+\l__siunitx_unit_position_int=\count277
+\l__siunitx_unit_total_int=\count278
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen155
 \ar@mcellbox=\box59
 \extrarowheight=\dimen156
-\NC@list=\toks19
+\NC@list=\toks20
 \extratabsurround=\skip50
 \backup@length=\skip51
 \ar@cellbox=\box60
@@ -119,13 +120,13 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-03-30 L3 programming layer (loader) 
+Package: expl3 2023-11-09 L3 programming layer (loader) 
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count278
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box61
 ))
-Package: xparse 2023-02-02 L3 Experimental document command parser
+Package: xparse 2023-10-10 L3 Experimental document command parser
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
 Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
@@ -141,7 +142,7 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count279
+\c@abspage=\count280
 Package zref Info: New property: abspage on input line 67.
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
@@ -155,7 +156,7 @@ Package color Info: Driver file: pdftex.def on input line 149.
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 \mdf@templength=\skip52
-\c@mdf@globalstyle@cnt=\count280
+\c@mdf@globalstyle@cnt=\count281
 \mdf@skipabove@length=\skip53
 \mdf@skipbelow@length=\skip54
 \mdf@leftmargin@length=\skip55
@@ -196,7 +197,7 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \mdf@subsubtitleinneraboveskip@length=\skip90
 \mdf@subsubtitleinnerbelowskip@length=\skip91
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks20
+\pgfutil@everybye=\toks21
 \pgfutil@tempdima=\dimen157
 \pgfutil@tempdimb=\dimen158
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
@@ -221,10 +222,10 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks21
-\pgfkeys@temptoks=\toks22
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks23
+\pgfkeys@tmptoks=\toks24
 ))
 \pgf@x=\dimen161
 \pgf@y=\dimen162
@@ -238,14 +239,14 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yd=\dimen170
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count281
-\c@pgf@countb=\count282
-\c@pgf@countc=\count283
-\c@pgf@countd=\count284
-\t@pgf@toka=\toks24
-\t@pgf@tokb=\toks25
-\t@pgf@tokc=\toks26
-\pgf@sys@id@count=\count285
+\c@pgf@counta=\count282
+\c@pgf@countb=\count283
+\c@pgf@countc=\count284
+\c@pgf@countd=\count285
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count286
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -256,38 +257,38 @@ File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count286
-\pgfsyssoftpath@bigbuffer@items=\count287
+\pgfsyssoftpath@smallbuffer@items=\count287
+\pgfsyssoftpath@bigbuffer@items=\count288
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 227.
-LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+LaTeX Info: Redefining \color on input line 758.
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
-Package xcolor Info: Model `RGB' extended on input line 1369.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen171
-\pgfmath@count=\count288
+\pgfmath@count=\count289
 \pgfmath@box=\box63
-\pgfmath@toks=\toks27
-\pgfmath@stack@operand=\toks28
-\pgfmath@stack@operation=\toks29
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count289
+\c@pgfmathroundto@lastzeros=\count290
 )) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen172
@@ -317,7 +318,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box64
 \pgf@hbox=\box65
 \pgf@layerbox@main=\box66
-\pgf@picture@serial@count=\count290
+\pgf@picture@serial@count=\count291
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen190
@@ -338,8 +339,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen195
-\pgf@sys@shading@range@num=\count291
-\pgf@shadingcount=\count292
+\pgf@sys@shading@range@num=\count292
+\pgf@shadingcount=\count293
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
@@ -368,13 +369,13 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen198
 \pgffor@skip=\dimen199
-\pgffor@stack=\toks30
-\pgffor@toks=\toks31
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
 )) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count293
+\pgf@plot@mark@count=\count294
 \pgfplotmarksize=\dimen256
 )
 \tikz@lastx=\dimen257
@@ -389,17 +390,17 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box70
 \tikz@tempbox=\box71
 \tikz@tempbox@bg=\box72
-\tikztreelevel=\count294
-\tikznumberofchildren=\count295
-\tikznumberofcurrentchild=\count296
-\tikz@fig@count=\count297
+\tikztreelevel=\count295
+\tikznumberofchildren=\count296
+\tikznumberofcurrentchild=\count297
+\tikz@fig@count=\count298
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count298
-\pgfmatrixcurrentcolumn=\count299
-\pgf@matrix@numberofcolumns=\count300
+\pgfmatrixcurrentrow=\count299
+\pgfmatrixcurrentcolumn=\count300
+\pgf@matrix@numberofcolumns=\count301
 )
-\tikz@expandcount=\count301
+\tikz@expandcount=\count302
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-1.mdf
@@ -437,25 +438,25 @@ File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 \mdf@horizontalspaceofbox=\skip116
 \mdfsubtitleheight=\skip117
 \mdfsubsubtitleheight=\skip118
-\c@mdfcountframes=\count302
+\c@mdfcountframes=\count303
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- success******
 
-\mdf@envdepth=\count303
-\c@mdf@env@i=\count304
-\c@mdf@env@ii=\count305
-\c@mdf@zref@counter=\count306
+\mdf@envdepth=\count304
+\c@mdf@env@i=\count305
+\c@mdf@env@ii=\count306
+\c@mdf@zref@counter=\count307
 Package zref Info: New property: mdf@pagevalue on input line 895.
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/03/28 3.87 The Babel package
-\babel@savecnt=\count307
+Package: babel 2023/11/11 v3.97 The Babel package
+\babel@savecnt=\count308
 \U@D=\dimen265
 \l@unhyphenated=\language79
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
-\bbl@dirlevel=\count308
+\bbl@dirlevel=\count309
 
 *************************************
 * Local config file bblopts.cfg used
@@ -464,8 +465,8 @@ Package: babel 2023/03/28 3.87 The Babel package
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks32
-\es@quotdepth=\count309
+\es@quottoks=\toks33
+\es@quotdepth=\count310
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
@@ -483,7 +484,7 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip119
 
 For additional information on amsmath, use the `?' option.
@@ -493,14 +494,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count310
+\inf@bad=\count311
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count311
-\leftroot@=\count312
+\uproot@=\count312
+\leftroot@=\count313
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count313
-\DOTSCASE@=\count314
+\classnum@=\count314
+\DOTSCASE@=\count315
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -513,38 +514,38 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen267
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count315
+\macc@depth=\count316
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count316
+\c@MaxMatrixCols=\count317
 \dotsspace@=\muskip16
-\c@parentequation=\count317
-\dspbrk@lvl=\count318
-\tag@help=\toks33
-\row@=\count319
-\column@=\count320
-\maxfields@=\count321
-\andhelp@=\toks34
+\c@parentequation=\count318
+\dspbrk@lvl=\count319
+\tag@help=\toks34
+\row@=\count320
+\column@=\count321
+\maxfields@=\count322
+\andhelp@=\toks35
 \eqnshift@=\dimen268
 \alignsep@=\dimen269
 \tagshift@=\dimen270
 \tagwidth@=\dimen271
 \totwidth@=\dimen272
 \lineht@=\dimen273
-\@envbody=\toks35
+\@envbody=\toks36
 \multlinegap=\skip120
 \multlinetaggap=\skip121
-\mathdisplay@stack=\toks36
+\mathdisplay@stack=\toks37
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/esint\esint.sty
 Package: esint 
 \symlargesymbolsA=\mathgroup6
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+Package: hyperref 2023-11-09 v7.01f Hypertext links for LaTeX
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
@@ -552,77 +553,77 @@ Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+Package: nameref 2023-11-09 v2.55 Cross-referencing by name of section
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count322
+\c@section@level=\count323
 )
 \@linkdim=\dimen274
-\Hy@linkcounter=\count323
-\Hy@pagecounter=\count324
+\Hy@linkcounter=\count324
+\Hy@pagecounter=\count325
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-11-09 v7.01f Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count325
+\Hy@SavedSpaceFactor=\count326
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-11-09 v7.01f Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4177.
-Package hyperref Info: Link nesting OFF on input line 4182.
-Package hyperref Info: Hyper index ON on input line 4185.
-Package hyperref Info: Plain pages OFF on input line 4192.
-Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Hyper figures OFF on input line 4171.
+Package hyperref Info: Link nesting OFF on input line 4176.
+Package hyperref Info: Hyper index ON on input line 4179.
+Package hyperref Info: Plain pages OFF on input line 4186.
+Package hyperref Info: Backreferencing OFF on input line 4191.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4425.
-\c@Hy@tempcnt=\count326
+Package hyperref Info: Bookmarks ON on input line 4438.
+\c@Hy@tempcnt=\count327
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4763.
+LaTeX Info: Redefining \url on input line 4776.
 \XeTeXLinkMargin=\dimen275
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count327
+\Fld@menulength=\count328
 \Field@Width=\dimen276
 \Fld@charsize=\dimen277
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring OFF on input line 6062.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
+Package hyperref Info: Hyper figures OFF on input line 6055.
+Package hyperref Info: Link nesting OFF on input line 6060.
+Package hyperref Info: Hyper index ON on input line 6063.
+Package hyperref Info: backreferencing OFF on input line 6070.
+Package hyperref Info: Link coloring OFF on input line 6075.
+Package hyperref Info: Link coloring with OCG OFF on input line 6080.
+Package hyperref Info: PDF/A mode OFF on input line 6085.
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count328
-\c@Item=\count329
-\c@Hfootnote=\count330
+\Hy@abspage=\count329
+\c@Item=\count330
+\c@Hfootnote=\count331
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+File: hpdftex.def 2023-11-09 v7.01f Hyperref driver for pdfTeX
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\HyAnn@Count=\count331
-\Fld@listcount=\count332
-\c@bookmark@seq@number=\count333
+\HyAnn@Count=\count332
+\Fld@listcount=\count333
+\c@bookmark@seq@number=\count334
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -647,16 +648,16 @@ Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count334
-\calc@Bcount=\count335
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count335
+\calc@Bcount=\count336
 \calc@Adimen=\dimen278
 \calc@Bdimen=\dimen279
 \calc@Askip=\skip132
 \calc@Bskip=\skip133
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count336
+\calc@Ccount=\count337
 \calc@Cskip=\skip134
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
@@ -669,24 +670,24 @@ Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
 File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count337
+\pdfpages@includegraphics@status=\count338
 \AM@pagebox=\box80
-\AM@global@opts=\toks37
-\AM@pagecnt=\count338
-\AM@toc@title=\toks38
-\AM@lof@heading=\toks39
-\c@AM@survey=\count339
+\AM@global@opts=\toks38
+\AM@pagecnt=\count339
+\AM@toc@title=\toks39
+\AM@lof@heading=\toks40
+\c@AM@survey=\count340
 \AM@templatesizebox=\box81
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
-Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count340
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count341
 \mult@box=\box82
 \multicol@leftmargin=\dimen285
-\c@unbalance=\count341
-\c@collectmore=\count342
-\doublecol@number=\count343
-\multicoltolerance=\count344
-\multicolpretolerance=\count345
+\c@unbalance=\count342
+\c@collectmore=\count343
+\doublecol@number=\count344
+\multicoltolerance=\count345
+\multicolpretolerance=\count346
 \full@width=\dimen286
 \page@free=\dimen287
 \premulticols=\dimen288
@@ -695,12 +696,12 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \multicolbaselineskip=\skip136
 \partial@page=\box83
 \last@line=\box84
+\mc@boxedresult=\box85
 \maxbalancingoverflow=\dimen290
-\mult@rightbox=\box85
-\mult@grightbox=\box86
-\mult@firstbox=\box87
-\mult@gfirstbox=\box88
-\@tempa=\box89
+\mult@rightbox=\box86
+\mult@grightbox=\box87
+\mult@firstbox=\box88
+\mult@gfirstbox=\box89
 \@tempa=\box90
 \@tempa=\box91
 \@tempa=\box92
@@ -736,24 +737,25 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box122
 \@tempa=\box123
 \@tempa=\box124
-\c@minrows=\count346
-\c@columnbadness=\count347
-\c@finalcolumnbadness=\count348
+\@tempa=\box125
+\c@minrows=\count347
+\c@columnbadness=\count348
+\c@finalcolumnbadness=\count349
 \last@try=\dimen291
 \multicolovershoot=\dimen292
 \multicolundershoot=\dimen293
-\mult@nat@firstbox=\box125
-\colbreak@box=\box126
-\mc@col@check@num=\count349
+\mult@nat@firstbox=\box126
+\colbreak@box=\box127
+\mc@col@check@num=\count350
 )) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write4
  Excluding comment 'comment') (commands.tex)
-\c@defn=\count350
-\c@prop=\count351
-\c@ejercicio=\count352
+\c@defn=\count351
+\c@prop=\count352
+\c@ejercicio=\count353
  (main.aux
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
 )
 \openout1 = `main.aux'.
 
@@ -816,17 +818,17 @@ File: translations-basic-dictionary-spanish.trsl (spanish translation file `tran
 Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 12.
  (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count353
+\scratchcounter=\count354
 \scratchdimen=\dimen294
-\scratchbox=\box127
-\nofMPsegments=\count354
-\nofMParguments=\count355
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count356
+\scratchbox=\box128
+\nofMPsegments=\count355
+\nofMParguments=\count356
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count357
 \MPscratchDim=\dimen295
-\MPnumerator=\count357
-\makeMPintoPDFobject=\count358
-\everyMPtoPDFconversion=\toks41
+\MPnumerator=\count358
+\makeMPintoPDFobject=\count359
+\everyMPtoPDFconversion=\toks42
 ) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -849,15 +851,15 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-<./images//untref.png, id=110, 733.23938pt x 105.39375pt>
-File: ./images//untref.png Graphic file (type png)
-<use ./images//untref.png>
-Package pdftex.def Info: ./images//untref.png  used on input line 24.
+<./images/untref.png, id=110, 733.23938pt x 105.39375pt>
+File: ./images/untref.png Graphic file (type png)
+<use ./images/untref.png>
+Package pdftex.def Info: ./images/untref.png  used on input line 24.
 (pdftex.def)             Requested size: 241.84843pt x 34.76234pt.
  [1
 
 
-{C:/Users/marti/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images//untref.png>]
+{C:/Users/marti/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/untref.png>]
 Package mdframed Info: mdframed works in twoside mode on input line 81.
 Package mdframed Info: mdframed works in twoside mode on input line 86.
 Package mdframed Info: mdframed works in twoside mode on input line 91.
@@ -921,15 +923,15 @@ LaTeX Info: Redefining \% on input line 333.
 Package mdframed Info: mdframed works in twoside mode on input line 335.
 Package mdframed Info: mdframed works in twoside mode on input line 347.
  (images/ch1-mru-1.pdf_tex
-<./images//ch1-mru-1.pdf, id=255, page=1, 341.43306pt x 512.1496pt>
-File: ./images//ch1-mru-1.pdf Graphic file (type pdf)
-<use ./images//ch1-mru-1.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mru-1.pdf , page1 used on input line 56.
+<./images/ch1-mru-1.pdf, id=255, page=1, 341.43306pt x 512.1496pt>
+File: ./images/ch1-mru-1.pdf Graphic file (type pdf)
+<use ./images/ch1-mru-1.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mru-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 276.54094pt x 414.8389pt.
-<./images//ch1-mru-1.pdf, id=256, page=2, 341.43306pt x 512.1496pt>
-File: ./images//ch1-mru-1.pdf Graphic file (type pdf)
-<use ./images//ch1-mru-1.pdf, page 2>
-Package pdftex.def Info: ./images//ch1-mru-1.pdf , page2 used on input line 80.
+<./images/ch1-mru-1.pdf, id=256, page=2, 341.43306pt x 512.1496pt>
+File: ./images/ch1-mru-1.pdf Graphic file (type pdf)
+<use ./images/ch1-mru-1.pdf, page 2>
+Package pdftex.def Info: ./images/ch1-mru-1.pdf , page2 used on input line 80.
 (pdftex.def)             Requested size: 276.54094pt x 414.8389pt.
 )
 Package mdframed Info: Box was splittet wrong
@@ -937,9 +939,9 @@ Package mdframed Info: Box was splittet wrong
 (mdframed)              on input line 359.
 LaTeX Info: Redefining \. on input line 359.
 LaTeX Info: Redefining \% on input line 359.
- [5 <./images//ch1-mru-1.pdf> <./images//ch1-mru-1.pdf
+ [5 <./images/ch1-mru-1.pdf> <./images/ch1-mru-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mru-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/ch1-mru-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 361.
 Package mdframed Info: mdframed works in twoside mode on input line 374.
@@ -957,121 +959,121 @@ LaTeX Info: Redefining \% on input line 449.
 Package mdframed Info: mdframed works in twoside mode on input line 451.
 Package mdframed Info: mdframed works in twoside mode on input line 465.
  (images/ch1-mruv-1.pdf_tex
-<./images//ch1-mruv-1.pdf, id=297, page=1, 341.43306pt x 227.62204pt>
-File: ./images//ch1-mruv-1.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-1.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mruv-1.pdf , page1 used on input line 56.
+<./images/ch1-mruv-1.pdf, id=297, page=1, 341.43306pt x 227.62204pt>
+File: ./images/ch1-mruv-1.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-1.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mruv-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 153.63477pt.
-<./images//ch1-mruv-1.pdf, id=298, page=2, 341.43306pt x 227.62204pt>
-File: ./images//ch1-mruv-1.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-1.pdf, page 2>
-Package pdftex.def Info: ./images//ch1-mruv-1.pdf , page2 used on input line 62.
+<./images/ch1-mruv-1.pdf, id=298, page=2, 341.43306pt x 227.62204pt>
+File: ./images/ch1-mruv-1.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-1.pdf, page 2>
+Package pdftex.def Info: ./images/ch1-mruv-1.pdf , page2 used on input line 62.
 (pdftex.def)             Requested size: 230.44844pt x 153.63477pt.
-<./images//ch1-mruv-1.pdf, id=299, page=3, 341.43306pt x 227.62204pt>
-File: ./images//ch1-mruv-1.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-1.pdf, page 3>
-Package pdftex.def Info: ./images//ch1-mruv-1.pdf , page3 used on input line 66.
+<./images/ch1-mruv-1.pdf, id=299, page=3, 341.43306pt x 227.62204pt>
+File: ./images/ch1-mruv-1.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-1.pdf, page 3>
+Package pdftex.def Info: ./images/ch1-mruv-1.pdf , page3 used on input line 66.
 (pdftex.def)             Requested size: 230.44844pt x 153.63477pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 481.
 Package mdframed Info: Not enough space on this page on input line 492.
 LaTeX Info: Redefining \. on input line 492.
 LaTeX Info: Redefining \% on input line 492.
- [8 <./images//ch1-mruv-1.pdf> <./images//ch1-mruv-1.pdf
+ [8 <./images/ch1-mruv-1.pdf> <./images/ch1-mruv-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mruv-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//ch1-mruv-1.pdf
+pdfTeX warning: pdflatex (file ./images/ch1-mruv-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/ch1-mruv-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mruv-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/ch1-mruv-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: Not enough space on this page on input line 492.
 Package mdframed Info: mdframed works in twoside mode on input line 494.
  (images/ch1-mruv-2.pdf_tex
-<./images//ch1-mruv-2.pdf, id=318, page=1, 455.2441pt x 341.43306pt>
-File: ./images//ch1-mruv-2.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-2.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mruv-2.pdf , page1 used on input line 56.
+<./images/ch1-mruv-2.pdf, id=318, page=1, 455.2441pt x 341.43306pt>
+File: ./images/ch1-mruv-2.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-2.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mruv-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 368.7189pt x 276.54883pt.
-<./images//ch1-mruv-2.pdf, id=319, page=2, 455.2441pt x 341.43306pt>
-File: ./images//ch1-mruv-2.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-2.pdf, page 2>
-Package pdftex.def Info: ./images//ch1-mruv-2.pdf , page2 used on input line 61.
+<./images/ch1-mruv-2.pdf, id=319, page=2, 455.2441pt x 341.43306pt>
+File: ./images/ch1-mruv-2.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-2.pdf, page 2>
+Package pdftex.def Info: ./images/ch1-mruv-2.pdf , page2 used on input line 61.
 (pdftex.def)             Requested size: 368.7189pt x 276.54883pt.
-<./images//ch1-mruv-2.pdf, id=320, page=3, 455.2441pt x 341.43306pt>
-File: ./images//ch1-mruv-2.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-2.pdf, page 3>
-Package pdftex.def Info: ./images//ch1-mruv-2.pdf , page3 used on input line 66.
+<./images/ch1-mruv-2.pdf, id=320, page=3, 455.2441pt x 341.43306pt>
+File: ./images/ch1-mruv-2.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-2.pdf, page 3>
+Package pdftex.def Info: ./images/ch1-mruv-2.pdf , page3 used on input line 66.
 (pdftex.def)             Requested size: 368.7189pt x 276.54883pt.
-<./images//ch1-mruv-2.pdf, id=321, page=4, 455.2441pt x 341.43306pt>
-File: ./images//ch1-mruv-2.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-2.pdf, page 4>
-Package pdftex.def Info: ./images//ch1-mruv-2.pdf , page4 used on input line 71.
+<./images/ch1-mruv-2.pdf, id=321, page=4, 455.2441pt x 341.43306pt>
+File: ./images/ch1-mruv-2.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-2.pdf, page 4>
+Package pdftex.def Info: ./images/ch1-mruv-2.pdf , page4 used on input line 71.
 (pdftex.def)             Requested size: 368.7189pt x 276.54883pt.
-<./images//ch1-mruv-2.pdf, id=322, page=5, 455.2441pt x 341.43306pt>
-File: ./images//ch1-mruv-2.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-2.pdf, page 5>
-Package pdftex.def Info: ./images//ch1-mruv-2.pdf , page5 used on input line 76.
+<./images/ch1-mruv-2.pdf, id=322, page=5, 455.2441pt x 341.43306pt>
+File: ./images/ch1-mruv-2.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-2.pdf, page 5>
+Package pdftex.def Info: ./images/ch1-mruv-2.pdf , page5 used on input line 76.
 (pdftex.def)             Requested size: 368.7189pt x 276.54883pt.
-<./images//ch1-mruv-2.pdf, id=323, page=6, 455.2441pt x 341.43306pt>
-File: ./images//ch1-mruv-2.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-2.pdf, page 6>
-Package pdftex.def Info: ./images//ch1-mruv-2.pdf , page6 used on input line 81.
+<./images/ch1-mruv-2.pdf, id=323, page=6, 455.2441pt x 341.43306pt>
+File: ./images/ch1-mruv-2.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-2.pdf, page 6>
+Package pdftex.def Info: ./images/ch1-mruv-2.pdf , page6 used on input line 81.
 (pdftex.def)             Requested size: 368.7189pt x 276.54883pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 510.
 Package mdframed Info: Not enough space on this page on input line 520.
 LaTeX Info: Redefining \. on input line 520.
 LaTeX Info: Redefining \% on input line 520.
- [9 <./images//ch1-mruv-2.pdf> <./images//ch1-mruv-2.pdf
+ [9 <./images/ch1-mruv-2.pdf> <./images/ch1-mruv-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mruv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//ch1-mruv-2.pdf
+pdfTeX warning: pdflatex (file ./images/ch1-mruv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/ch1-mruv-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mruv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//ch1-mruv-2.pdf
+pdfTeX warning: pdflatex (file ./images/ch1-mruv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/ch1-mruv-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mruv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//ch1-mruv-2.pdf
+pdfTeX warning: pdflatex (file ./images/ch1-mruv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/ch1-mruv-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mruv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//ch1-mruv-2.pdf
+pdfTeX warning: pdflatex (file ./images/ch1-mruv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/ch1-mruv-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mruv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/ch1-mruv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: Not enough space on this page on input line 520.
 Package mdframed Info: mdframed works in twoside mode on input line 522.
  (images/ch1-mruv-3.pdf_tex
-<./images//ch1-mruv-3.pdf, id=355, page=1, 312.98033pt x 241.84843pt>
-File: ./images//ch1-mruv-3.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-3.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mruv-3.pdf , page1 used on input line 56.
+<./images/ch1-mruv-3.pdf, id=355, page=1, 312.98033pt x 241.84843pt>
+File: ./images/ch1-mruv-3.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-3.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mruv-3.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 178.07936pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 540.
  (images/ch1-mruv-5.pdf_tex
-<./images//ch1-mruv-5.pdf, id=356, page=1, 312.98033pt x 213.39566pt>
-File: ./images//ch1-mruv-5.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-5.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mruv-5.pdf , page1 used on input line 56.
+<./images/ch1-mruv-5.pdf, id=356, page=1, 312.98033pt x 213.39566pt>
+File: ./images/ch1-mruv-5.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-5.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mruv-5.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 276.54094pt x 188.55396pt.
-<./images//ch1-mruv-5.pdf, id=357, page=2, 312.98033pt x 213.39566pt>
-File: ./images//ch1-mruv-5.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-5.pdf, page 2>
-Package pdftex.def Info: ./images//ch1-mruv-5.pdf , page2 used on input line 63.
+<./images/ch1-mruv-5.pdf, id=357, page=2, 312.98033pt x 213.39566pt>
+File: ./images/ch1-mruv-5.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-5.pdf, page 2>
+Package pdftex.def Info: ./images/ch1-mruv-5.pdf , page2 used on input line 63.
 (pdftex.def)             Requested size: 276.54094pt x 188.55396pt.
 )
 LaTeX Info: Redefining \. on input line 554.
 LaTeX Info: Redefining \% on input line 554.
- [10 <./images//ch1-mruv-3.pdf>]
+ [10 <./images/ch1-mruv-3.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 559.
 Package mdframed Info: mdframed works in twoside mode on input line 564.
 Package mdframed Info: mdframed works in twoside mode on input line 576.
 Package mdframed Info: Not enough space on this page on input line 585.
 LaTeX Info: Redefining \. on input line 585.
 LaTeX Info: Redefining \% on input line 585.
- [11 <./images//ch1-mruv-5.pdf> <./images//ch1-mruv-5.pdf
+ [11 <./images/ch1-mruv-5.pdf> <./images/ch1-mruv-5.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mruv-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/ch1-mruv-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: Not enough space on this page on input line 585.
 Package mdframed Info: mdframed works in twoside mode on input line 587.
@@ -1095,17 +1097,17 @@ LaTeX Info: Redefining \% on input line 684.
 Package mdframed Info: mdframed works in twoside mode on input line 686.
 Package mdframed Info: mdframed works in twoside mode on input line 692.
  (images/ch1-mruv-4.pdf_tex
-<./images//ch1-mruv-4.pdf, id=427, page=1, 284.52756pt x 256.0748pt>
-File: ./images//ch1-mruv-4.pdf Graphic file (type pdf)
-<use ./images//ch1-mruv-4.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mruv-4.pdf , page1 used on input line 56.
+<./images/ch1-mruv-4.pdf, id=427, page=1, 284.52756pt x 256.0748pt>
+File: ./images/ch1-mruv-4.pdf Graphic file (type pdf)
+<use ./images/ch1-mruv-4.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mruv-4.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 184.35593pt x 165.92305pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 714.
 Package mdframed Info: Not enough space on this page on input line 728.
 LaTeX Info: Redefining \. on input line 728.
 LaTeX Info: Redefining \% on input line 728.
- [14 <./images//ch1-mruv-4.pdf>]
+ [14 <./images/ch1-mruv-4.pdf>]
 Package mdframed Info: Not enough space on this page on input line 728.
 Package mdframed Info: mdframed works in twoside mode on input line 733.
 Package mdframed Info: mdframed works in twoside mode on input line 743.
@@ -1122,10 +1124,10 @@ Package mdframed Info: mdframed works in twoside mode on input line 772.
 Package mdframed Info: mdframed works in twoside mode on input line 788.
 Package mdframed Info: mdframed works in twoside mode on input line 803.
  (images/ch1-esquiador.pdf_tex
-<./images//ch1-esquiador.pdf, id=466, page=1, 483.69685pt x 312.98033pt>
-File: ./images//ch1-esquiador.pdf Graphic file (type pdf)
-<use ./images//ch1-esquiador.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-esquiador.pdf , page1 used on input line 56.
+<./images/ch1-esquiador.pdf, id=466, page=1, 483.69685pt x 312.98033pt>
+File: ./images/ch1-esquiador.pdf Graphic file (type pdf)
+<use ./images/ch1-esquiador.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-esquiador.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 368.7189pt x 238.58386pt.
 )
 Package mdframed Info: Not enough space on this page on input line 813.
@@ -1137,16 +1139,16 @@ Package mdframed Info: mdframed works in twoside mode on input line 815.
 Package mdframed Info: mdframed works in twoside mode on input line 831.
 LaTeX Info: Redefining \. on input line 840.
 LaTeX Info: Redefining \% on input line 840.
- [17 <./images//ch1-esquiador.pdf>]
+ [17 <./images/ch1-esquiador.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 845.
 Package mdframed Info: mdframed works in twoside mode on input line 864.
 Package mdframed Info: mdframed works in twoside mode on input line 875.
 Package mdframed Info: mdframed works in twoside mode on input line 881.
  (images/ch1-mcu-1.pdf_tex
-<./images//ch1-mcu-1.pdf, id=512, page=1, 284.52756pt x 113.81102pt>
-File: ./images//ch1-mcu-1.pdf Graphic file (type pdf)
-<use ./images//ch1-mcu-1.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mcu-1.pdf , page1 used on input line 56.
+<./images/ch1-mcu-1.pdf, id=512, page=1, 284.52756pt x 113.81102pt>
+File: ./images/ch1-mcu-1.pdf Graphic file (type pdf)
+<use ./images/ch1-mcu-1.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mcu-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 276.54094pt x 110.62578pt.
 )
 LaTeX Info: Redefining \. on input line 894.
@@ -1158,79 +1160,79 @@ Package mdframed Info: mdframed works in twoside mode on input line 903.
 Package mdframed Info: mdframed works in twoside mode on input line 914.
 LaTeX Info: Redefining \. on input line 926.
 LaTeX Info: Redefining \% on input line 926.
- [19 <./images//ch1-mcu-1.pdf>]
+ [19 <./images/ch1-mcu-1.pdf>]
 Package mdframed Info: Not enough space on this page on input line 926.
 Package mdframed Info: mdframed works in twoside mode on input line 928.
  (images/ch1-mcu-2.pdf_tex
-<./images//ch1-mcu-2.pdf, id=560, page=1, 227.62204pt x 227.62204pt>
-File: ./images//ch1-mcu-2.pdf Graphic file (type pdf)
-<use ./images//ch1-mcu-2.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mcu-2.pdf , page1 used on input line 56.
+<./images/ch1-mcu-2.pdf, id=560, page=1, 227.62204pt x 227.62204pt>
+File: ./images/ch1-mcu-2.pdf Graphic file (type pdf)
+<use ./images/ch1-mcu-2.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mcu-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 184.35593pt x 184.36241pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 942.
 Package mdframed Info: mdframed works in twoside mode on input line 952.
  (images/ch1-mcu-3.pdf_tex
-<./images//ch1-mcu-3.pdf, id=561, page=1, 426.79132pt x 142.26378pt>
-File: ./images//ch1-mcu-3.pdf Graphic file (type pdf)
-<use ./images//ch1-mcu-3.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mcu-3.pdf , page1 used on input line 56.
+<./images/ch1-mcu-3.pdf, id=561, page=1, 426.79132pt x 142.26378pt>
+File: ./images/ch1-mcu-3.pdf Graphic file (type pdf)
+<use ./images/ch1-mcu-3.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mcu-3.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 368.7189pt x 122.90886pt.
-<./images//ch1-mcu-3.pdf, id=562, page=2, 426.79132pt x 142.26378pt>
-File: ./images//ch1-mcu-3.pdf Graphic file (type pdf)
-<use ./images//ch1-mcu-3.pdf, page 2>
-Package pdftex.def Info: ./images//ch1-mcu-3.pdf , page2 used on input line 62.
+<./images/ch1-mcu-3.pdf, id=562, page=2, 426.79132pt x 142.26378pt>
+File: ./images/ch1-mcu-3.pdf Graphic file (type pdf)
+<use ./images/ch1-mcu-3.pdf, page 2>
+Package pdftex.def Info: ./images/ch1-mcu-3.pdf , page2 used on input line 62.
 (pdftex.def)             Requested size: 368.7189pt x 122.90886pt.
 )
 LaTeX Info: Redefining \. on input line 968.
 LaTeX Info: Redefining \% on input line 968.
- [20 <./images//ch1-mcu-2.pdf>]
+ [20 <./images/ch1-mcu-2.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 970.
 Package mdframed Info: mdframed works in twoside mode on input line 979.
  (images/ch1-mcuv-1.pdf_tex
-<./images//ch1-mcuv-1.pdf, id=581, page=1, 184.94292pt x 156.49016pt>
-File: ./images//ch1-mcuv-1.pdf Graphic file (type pdf)
-<use ./images//ch1-mcuv-1.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mcuv-1.pdf , page1 used on input line 56.
+<./images/ch1-mcuv-1.pdf, id=581, page=1, 184.94292pt x 156.49016pt>
+File: ./images/ch1-mcuv-1.pdf Graphic file (type pdf)
+<use ./images/ch1-mcuv-1.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mcuv-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 184.35593pt x 155.99547pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 995.
  (images/ch1-mcuv-2.pdf_tex
-<./images//ch1-mcuv-2.pdf, id=582, page=1, 227.62204pt x 199.1693pt>
-File: ./images//ch1-mcuv-2.pdf Graphic file (type pdf)
-<use ./images//ch1-mcuv-2.pdf, page 1>
-Package pdftex.def Info: ./images//ch1-mcuv-2.pdf , page1 used on input line 56.
+<./images/ch1-mcuv-2.pdf, id=582, page=1, 227.62204pt x 199.1693pt>
+File: ./images/ch1-mcuv-2.pdf Graphic file (type pdf)
+<use ./images/ch1-mcuv-2.pdf, page 1>
+Package pdftex.def Info: ./images/ch1-mcuv-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 201.6517pt.
-<./images//ch1-mcuv-2.pdf, id=583, page=2, 227.62204pt x 199.1693pt>
-File: ./images//ch1-mcuv-2.pdf Graphic file (type pdf)
-<use ./images//ch1-mcuv-2.pdf, page 2>
-Package pdftex.def Info: ./images//ch1-mcuv-2.pdf , page2 used on input line 61.
+<./images/ch1-mcuv-2.pdf, id=583, page=2, 227.62204pt x 199.1693pt>
+File: ./images/ch1-mcuv-2.pdf Graphic file (type pdf)
+<use ./images/ch1-mcuv-2.pdf, page 2>
+Package pdftex.def Info: ./images/ch1-mcuv-2.pdf , page2 used on input line 61.
 (pdftex.def)             Requested size: 230.44844pt x 201.6517pt.
-<./images//ch1-mcuv-2.pdf, id=584, page=3, 227.62204pt x 199.1693pt>
-File: ./images//ch1-mcuv-2.pdf Graphic file (type pdf)
-<use ./images//ch1-mcuv-2.pdf, page 3>
-Package pdftex.def Info: ./images//ch1-mcuv-2.pdf , page3 used on input line 63.
+<./images/ch1-mcuv-2.pdf, id=584, page=3, 227.62204pt x 199.1693pt>
+File: ./images/ch1-mcuv-2.pdf Graphic file (type pdf)
+<use ./images/ch1-mcuv-2.pdf, page 3>
+Package pdftex.def Info: ./images/ch1-mcuv-2.pdf , page3 used on input line 63.
 (pdftex.def)             Requested size: 230.44844pt x 201.6517pt.
 )
 LaTeX Info: Redefining \. on input line 1005.
 LaTeX Info: Redefining \% on input line 1005.
- [21 <./images//ch1-mcu-3.pdf> <./images//ch1-mcu-3.pdf
+ [21 <./images/ch1-mcu-3.pdf> <./images/ch1-mcu-3.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mcu-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//ch1-mcuv-1.pdf
+pdfTeX warning: pdflatex (file ./images/ch1-mcu-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/ch1-mcuv-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mcuv-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/ch1-mcuv-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: Not enough space on this page on input line 1005.
 Package mdframed Info: mdframed works in twoside mode on input line 1007.
 LaTeX Info: Redefining \. on input line 1014.
 LaTeX Info: Redefining \% on input line 1014.
- [22 <./images//ch1-mcuv-2.pdf> <./images//ch1-mcuv-2.pdf
+ [22 <./images/ch1-mcuv-2.pdf> <./images/ch1-mcuv-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mcuv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//ch1-mcuv-2.pdf
+pdfTeX warning: pdflatex (file ./images/ch1-mcuv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/ch1-mcuv-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//ch1-mcuv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/ch1-mcuv-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Cap\'{\i }tulo 2.
 Package mdframed Info: mdframed works in twoside mode on input line 1019.
@@ -1242,15 +1244,15 @@ Package mdframed Info: mdframed works in twoside mode on input line 1044.
 Package mdframed Info: mdframed works in twoside mode on input line 1059.
 Package mdframed Info: mdframed works in twoside mode on input line 1072.
  (images/dinamica-normal-1.pdf_tex
-<./images//dinamica-normal-1.pdf, id=632, page=1, 256.0748pt x 184.94292pt>
-File: ./images//dinamica-normal-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-normal-1.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-normal-1.pdf , page1 used on input line 56.
+<./images/dinamica-normal-1.pdf, id=632, page=1, 256.0748pt x 184.94292pt>
+File: ./images/dinamica-normal-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-normal-1.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-normal-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 184.35593pt x 133.15031pt.
-<./images//dinamica-normal-1.pdf, id=633, page=2, 256.0748pt x 184.94292pt>
-File: ./images//dinamica-normal-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-normal-1.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-normal-1.pdf , page2 used on input line 60.
+<./images/dinamica-normal-1.pdf, id=633, page=2, 256.0748pt x 184.94292pt>
+File: ./images/dinamica-normal-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-normal-1.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-normal-1.pdf , page2 used on input line 60.
 (pdftex.def)             Requested size: 184.35593pt x 133.15031pt.
 )
 LaTeX Info: Redefining \. on input line 1081.
@@ -1258,213 +1260,213 @@ LaTeX Info: Redefining \% on input line 1081.
  [24]
 Package mdframed Info: mdframed works in twoside mode on input line 1083.
  (images/dinamica-normal-2.pdf_tex
-<./images//dinamica-normal-2.pdf, id=651, page=1, 227.62204pt x 142.26378pt>
-File: ./images//dinamica-normal-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-normal-2.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-normal-2.pdf , page1 used on input line 56.
+<./images/dinamica-normal-2.pdf, id=651, page=1, 227.62204pt x 142.26378pt>
+File: ./images/dinamica-normal-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-normal-2.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-normal-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 276.54094pt x 172.85822pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1097.
  (images/dinamica-tension-1.pdf_tex
-<./images//dinamica-tension-1.pdf, id=652, page=1, 455.2441pt x 142.26378pt>
-File: ./images//dinamica-tension-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-1.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-tension-1.pdf , page1 used on input line 56.
+<./images/dinamica-tension-1.pdf, id=652, page=1, 455.2441pt x 142.26378pt>
+File: ./images/dinamica-tension-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-1.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-tension-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 460.89688pt x 144.03694pt.
-<./images//dinamica-tension-1.pdf, id=653, page=2, 455.2441pt x 142.26378pt>
-File: ./images//dinamica-tension-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-1.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-tension-1.pdf , page2 used on input line 65.
+<./images/dinamica-tension-1.pdf, id=653, page=2, 455.2441pt x 142.26378pt>
+File: ./images/dinamica-tension-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-1.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-tension-1.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 460.89688pt x 144.03694pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1108.
 LaTeX Info: Redefining \. on input line 1116.
 LaTeX Info: Redefining \% on input line 1116.
- [25 <./images//dinamica-normal-1.pdf> <./images//dinamica-normal-1.pdf
+ [25 <./images/dinamica-normal-1.pdf> <./images/dinamica-normal-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-normal-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-normal-2.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-normal-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-normal-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-normal-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-tension-1.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-normal-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-tension-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-tension-1.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-tension-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: Not enough space on this page on input line 1116.
 Package mdframed Info: mdframed works in twoside mode on input line 1118.
  (images/dinamica-normal-4.pdf_tex
-<./images//dinamica-normal-4.pdf, id=686, page=1, 312.98033pt x 227.62204pt>
-File: ./images//dinamica-normal-4.pdf Graphic file (type pdf)
-<use ./images//dinamica-normal-4.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-normal-4.pdf , page1 used on input line 56.
+<./images/dinamica-normal-4.pdf, id=686, page=1, 312.98033pt x 227.62204pt>
+File: ./images/dinamica-normal-4.pdf Graphic file (type pdf)
+<use ./images/dinamica-normal-4.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-normal-4.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 276.54094pt x 201.1242pt.
-<./images//dinamica-normal-4.pdf, id=687, page=2, 312.98033pt x 227.62204pt>
-File: ./images//dinamica-normal-4.pdf Graphic file (type pdf)
-<use ./images//dinamica-normal-4.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-normal-4.pdf , page2 used on input line 65.
+<./images/dinamica-normal-4.pdf, id=687, page=2, 312.98033pt x 227.62204pt>
+File: ./images/dinamica-normal-4.pdf Graphic file (type pdf)
+<use ./images/dinamica-normal-4.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-normal-4.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 276.54094pt x 201.1242pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1129.
  (images/dinamica-normal-3.pdf_tex
-<./images//dinamica-normal-3.pdf, id=688, page=1, 241.84843pt x 85.35826pt>
-File: ./images//dinamica-normal-3.pdf Graphic file (type pdf)
-<use ./images//dinamica-normal-3.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-normal-3.pdf , page1 used on input line 56.
+<./images/dinamica-normal-3.pdf, id=688, page=1, 241.84843pt x 85.35826pt>
+File: ./images/dinamica-normal-3.pdf Graphic file (type pdf)
+<use ./images/dinamica-normal-3.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-normal-3.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 276.54094pt x 97.60378pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1141.
  (images/dinamica-peso-1.pdf_tex
-<./images//dinamica-peso-1.pdf, id=689, page=1, 398.3386pt x 170.71654pt>
-File: ./images//dinamica-peso-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-peso-1.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-peso-1.pdf , page1 used on input line 56.
+<./images/dinamica-peso-1.pdf, id=689, page=1, 398.3386pt x 170.71654pt>
+File: ./images/dinamica-peso-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-peso-1.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-peso-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 368.7189pt x 158.03014pt.
 )
 LaTeX Info: Redefining \. on input line 1154.
 LaTeX Info: Redefining \% on input line 1154.
- [26 <./images//dinamica-normal-4.pdf> <./images//dinamica-normal-4.pdf
+ [26 <./images/dinamica-normal-4.pdf> <./images/dinamica-normal-4.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-normal-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-normal-3.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-normal-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-normal-3.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-normal-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-normal-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1156.
 Package mdframed Info: mdframed works in twoside mode on input line 1172.
 Package mdframed Info: mdframed works in twoside mode on input line 1185.
 LaTeX Info: Redefining \. on input line 1196.
 LaTeX Info: Redefining \% on input line 1196.
- [27 <./images//dinamica-peso-1.pdf>]
+ [27 <./images/dinamica-peso-1.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 1198.
 Package mdframed Info: mdframed works in twoside mode on input line 1211.
  (images/dinamica-tension-3.pdf_tex
-<./images//dinamica-tension-3.pdf, id=729, page=1, 369.88583pt x 227.62204pt>
-File: ./images//dinamica-tension-3.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-3.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-tension-3.pdf , page1 used on input line 56.
+<./images/dinamica-tension-3.pdf, id=729, page=1, 369.88583pt x 227.62204pt>
+File: ./images/dinamica-tension-3.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-3.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-tension-3.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 141.81537pt.
-<./images//dinamica-tension-3.pdf, id=730, page=2, 369.88583pt x 227.62204pt>
-File: ./images//dinamica-tension-3.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-3.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-tension-3.pdf , page2 used on input line 59.
+<./images/dinamica-tension-3.pdf, id=730, page=2, 369.88583pt x 227.62204pt>
+File: ./images/dinamica-tension-3.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-3.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-tension-3.pdf , page2 used on input line 59.
 (pdftex.def)             Requested size: 230.44844pt x 141.81537pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1229.
  (images/dinamica-tension-2.pdf_tex
-<./images//dinamica-tension-2.pdf, id=731, page=1, 1138.11024pt x 256.0748pt>
-File: ./images//dinamica-tension-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-2.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-tension-2.pdf , page1 used on input line 56.
+<./images/dinamica-tension-2.pdf, id=731, page=1, 1138.11024pt x 256.0748pt>
+File: ./images/dinamica-tension-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-2.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-tension-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 460.89688pt x 103.7019pt.
-<./images//dinamica-tension-2.pdf, id=732, page=2, 1138.11024pt x 256.0748pt>
-File: ./images//dinamica-tension-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-2.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-tension-2.pdf , page2 used on input line 59.
+<./images/dinamica-tension-2.pdf, id=732, page=2, 1138.11024pt x 256.0748pt>
+File: ./images/dinamica-tension-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-2.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-tension-2.pdf , page2 used on input line 59.
 (pdftex.def)             Requested size: 460.89688pt x 103.7019pt.
-<./images//dinamica-tension-2.pdf, id=733, page=3, 1138.11024pt x 256.0748pt>
-File: ./images//dinamica-tension-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-2.pdf, page 3>
-Package pdftex.def Info: ./images//dinamica-tension-2.pdf , page3 used on input line 61.
+<./images/dinamica-tension-2.pdf, id=733, page=3, 1138.11024pt x 256.0748pt>
+File: ./images/dinamica-tension-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-2.pdf, page 3>
+Package pdftex.def Info: ./images/dinamica-tension-2.pdf , page3 used on input line 61.
 (pdftex.def)             Requested size: 460.89688pt x 103.7019pt.
-<./images//dinamica-tension-2.pdf, id=734, page=4, 1138.11024pt x 256.0748pt>
-File: ./images//dinamica-tension-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-2.pdf, page 4>
-Package pdftex.def Info: ./images//dinamica-tension-2.pdf , page4 used on input line 63.
+<./images/dinamica-tension-2.pdf, id=734, page=4, 1138.11024pt x 256.0748pt>
+File: ./images/dinamica-tension-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-2.pdf, page 4>
+Package pdftex.def Info: ./images/dinamica-tension-2.pdf , page4 used on input line 63.
 (pdftex.def)             Requested size: 460.89688pt x 103.7019pt.
-<./images//dinamica-tension-2.pdf, id=735, page=5, 1138.11024pt x 256.0748pt>
-File: ./images//dinamica-tension-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-2.pdf, page 5>
-Package pdftex.def Info: ./images//dinamica-tension-2.pdf , page5 used on input line 65.
+<./images/dinamica-tension-2.pdf, id=735, page=5, 1138.11024pt x 256.0748pt>
+File: ./images/dinamica-tension-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-2.pdf, page 5>
+Package pdftex.def Info: ./images/dinamica-tension-2.pdf , page5 used on input line 65.
 (pdftex.def)             Requested size: 460.89688pt x 103.7019pt.
-<./images//dinamica-tension-2.pdf, id=736, page=6, 1138.11024pt x 256.0748pt>
-File: ./images//dinamica-tension-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-2.pdf, page 6>
-Package pdftex.def Info: ./images//dinamica-tension-2.pdf , page6 used on input line 67.
+<./images/dinamica-tension-2.pdf, id=736, page=6, 1138.11024pt x 256.0748pt>
+File: ./images/dinamica-tension-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-2.pdf, page 6>
+Package pdftex.def Info: ./images/dinamica-tension-2.pdf , page6 used on input line 67.
 (pdftex.def)             Requested size: 460.89688pt x 103.7019pt.
 )
 LaTeX Info: Redefining \. on input line 1243.
 LaTeX Info: Redefining \% on input line 1243.
- [28 <./images//dinamica-tension-3.pdf> <./images//dinamica-tension-3.pdf
+ [28 <./images/dinamica-tension-3.pdf> <./images/dinamica-tension-3.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1245.
  (images/dinamica-tension-4.pdf_tex
-<./images//dinamica-tension-4.pdf, id=756, page=1, 256.0748pt x 156.49016pt>
-File: ./images//dinamica-tension-4.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-4.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-tension-4.pdf , page1 used on input line 56.
+<./images/dinamica-tension-4.pdf, id=756, page=1, 256.0748pt x 156.49016pt>
+File: ./images/dinamica-tension-4.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-4.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-tension-4.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 140.83505pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1260.
  (images/dinamica-tension-5.pdf_tex
-<./images//dinamica-tension-5.pdf, id=757, page=1, 170.71654pt x 256.0748pt>
-File: ./images//dinamica-tension-5.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-5.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-tension-5.pdf , page1 used on input line 56.
+<./images/dinamica-tension-5.pdf, id=757, page=1, 170.71654pt x 256.0748pt>
+File: ./images/dinamica-tension-5.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-5.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-tension-5.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 138.27046pt x 207.41943pt.
 )
 LaTeX Info: Redefining \. on input line 1274.
 LaTeX Info: Redefining \% on input line 1274.
- [29 <./images//dinamica-tension-2.pdf> <./images//dinamica-tension-2.pdf
+ [29 <./images/dinamica-tension-2.pdf> <./images/dinamica-tension-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-tension-2.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-tension-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-tension-2.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-tension-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-tension-2.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-tension-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-tension-2.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-tension-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-tension-4.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-tension-4.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1276.
 Package mdframed Info: mdframed works in twoside mode on input line 1287.
  (images/dinamica-tension-6.pdf_tex
-<./images//dinamica-tension-6.pdf, id=802, page=1, 398.3386pt x 170.71654pt>
-File: ./images//dinamica-tension-6.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-6.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-tension-6.pdf , page1 used on input line 56.
+<./images/dinamica-tension-6.pdf, id=802, page=1, 398.3386pt x 170.71654pt>
+File: ./images/dinamica-tension-6.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-6.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-tension-6.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 322.6264pt x 138.27702pt.
-<./images//dinamica-tension-6.pdf, id=803, page=2, 398.3386pt x 170.71654pt>
-File: ./images//dinamica-tension-6.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-6.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-tension-6.pdf , page2 used on input line 58.
+<./images/dinamica-tension-6.pdf, id=803, page=2, 398.3386pt x 170.71654pt>
+File: ./images/dinamica-tension-6.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-6.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-tension-6.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 322.6264pt x 138.27702pt.
-<./images//dinamica-tension-6.pdf, id=804, page=3, 398.3386pt x 170.71654pt>
-File: ./images//dinamica-tension-6.pdf Graphic file (type pdf)
-<use ./images//dinamica-tension-6.pdf, page 3>
-Package pdftex.def Info: ./images//dinamica-tension-6.pdf , page3 used on input line 62.
+<./images/dinamica-tension-6.pdf, id=804, page=3, 398.3386pt x 170.71654pt>
+File: ./images/dinamica-tension-6.pdf Graphic file (type pdf)
+<use ./images/dinamica-tension-6.pdf, page 3>
+Package pdftex.def Info: ./images/dinamica-tension-6.pdf , page3 used on input line 62.
 (pdftex.def)             Requested size: 322.6264pt x 138.27702pt.
 )
 LaTeX Info: Redefining \. on input line 1300.
 LaTeX Info: Redefining \% on input line 1300.
- [30 <./images//dinamica-tension-5.pdf> <./images//dinamica-tension-6.pdf
+ [30 <./images/dinamica-tension-5.pdf> <./images/dinamica-tension-6.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-6.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-tension-6.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-6.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-tension-6.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-6.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-tension-6.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-6.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-tension-6.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-tension-6.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-tension-6.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1305.
  (images/dinamica-circular-3.pdf_tex
-<./images//dinamica-circular-3.pdf, id=824, page=1, 284.52756pt x 227.62204pt>
-File: ./images//dinamica-circular-3.pdf Graphic file (type pdf)
-<use ./images//dinamica-circular-3.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-circular-3.pdf , page1 used on input line 56.
+<./images/dinamica-circular-3.pdf, id=824, page=1, 284.52756pt x 227.62204pt>
+File: ./images/dinamica-circular-3.pdf Graphic file (type pdf)
+<use ./images/dinamica-circular-3.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-circular-3.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 184.36589pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1317.
@@ -1474,16 +1476,16 @@ Package mdframed Info: Box was splittet wrong
 (mdframed)              on input line 1341.
 LaTeX Info: Redefining \. on input line 1341.
 LaTeX Info: Redefining \% on input line 1341.
- [31 <./images//dinamica-circular-3.pdf>]
+ [31 <./images/dinamica-circular-3.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 1343.
 Package mdframed Info: mdframed works in twoside mode on input line 1352.
 Package mdframed Info: mdframed works in twoside mode on input line 1363.
 Package mdframed Info: mdframed works in twoside mode on input line 1370.
  (images/dinamica-circular-4.pdf_tex
-<./images//dinamica-circular-4.pdf, id=843, page=1, 284.52756pt x 170.71654pt>
-File: ./images//dinamica-circular-4.pdf Graphic file (type pdf)
-<use ./images//dinamica-circular-4.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-circular-4.pdf , page1 used on input line 56.
+<./images/dinamica-circular-4.pdf, id=843, page=1, 284.52756pt x 170.71654pt>
+File: ./images/dinamica-circular-4.pdf Graphic file (type pdf)
+<use ./images/dinamica-circular-4.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-circular-4.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 322.6264pt x 193.59251pt.
 )
 Package mdframed Info: Box was splittet wrong
@@ -1491,94 +1493,94 @@ Package mdframed Info: Box was splittet wrong
 (mdframed)              on input line 1383.
 LaTeX Info: Redefining \. on input line 1383.
 LaTeX Info: Redefining \% on input line 1383.
- [32 <./images//dinamica-circular-4.pdf>]
+ [32 <./images/dinamica-circular-4.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 1385.
 Package mdframed Info: mdframed works in twoside mode on input line 1395.
  (images/dinamica-circular-1.pdf_tex
-<./images//dinamica-circular-1.pdf, id=860, page=1, 142.26378pt x 170.71654pt>
-File: ./images//dinamica-circular-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-circular-1.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-circular-1.pdf , page1 used on input line 56.
+<./images/dinamica-circular-1.pdf, id=860, page=1, 142.26378pt x 170.71654pt>
+File: ./images/dinamica-circular-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-circular-1.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-circular-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 138.27046pt x 165.93867pt.
-<./images//dinamica-circular-1.pdf, id=861, page=2, 142.26378pt x 170.71654pt>
-File: ./images//dinamica-circular-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-circular-1.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-circular-1.pdf , page2 used on input line 58.
+<./images/dinamica-circular-1.pdf, id=861, page=2, 142.26378pt x 170.71654pt>
+File: ./images/dinamica-circular-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-circular-1.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-circular-1.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 138.27046pt x 165.93867pt.
-<./images//dinamica-circular-1.pdf, id=862, page=3, 142.26378pt x 170.71654pt>
-File: ./images//dinamica-circular-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-circular-1.pdf, page 3>
-Package pdftex.def Info: ./images//dinamica-circular-1.pdf , page3 used on input line 61.
+<./images/dinamica-circular-1.pdf, id=862, page=3, 142.26378pt x 170.71654pt>
+File: ./images/dinamica-circular-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-circular-1.pdf, page 3>
+Package pdftex.def Info: ./images/dinamica-circular-1.pdf , page3 used on input line 61.
 (pdftex.def)             Requested size: 138.27046pt x 165.93867pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1411.
  (images/dinamica-circular-5.pdf_tex
-<./images//dinamica-circular-5.pdf, id=863, page=1, 227.62204pt x 128.0374pt>
-File: ./images//dinamica-circular-5.pdf Graphic file (type pdf)
-<use ./images//dinamica-circular-5.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-circular-5.pdf , page1 used on input line 56.
+<./images/dinamica-circular-5.pdf, id=863, page=1, 227.62204pt x 128.0374pt>
+File: ./images/dinamica-circular-5.pdf Graphic file (type pdf)
+<use ./images/dinamica-circular-5.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-circular-5.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 184.35593pt x 103.70384pt.
 )
 LaTeX Info: Redefining \. on input line 1424.
 LaTeX Info: Redefining \% on input line 1424.
- [33 <./images//dinamica-circular-1.pdf> <./images//dinamica-circular-1.pdf
+ [33 <./images/dinamica-circular-1.pdf> <./images/dinamica-circular-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-circular-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-circular-1.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-circular-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-circular-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-circular-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-circular-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1429.
  (images/dinamica-roz-2.pdf_tex
-<./images//dinamica-roz-2.pdf, id=890, page=1, 199.1693pt x 142.26378pt>
-File: ./images//dinamica-roz-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-2.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-roz-2.pdf , page1 used on input line 56.
+<./images/dinamica-roz-2.pdf, id=890, page=1, 199.1693pt x 142.26378pt>
+File: ./images/dinamica-roz-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-2.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-roz-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 164.61581pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1441.
  (images/dinamica-roz-3.pdf_tex
-<./images//dinamica-roz-3.pdf, id=891, page=1, 199.1693pt x 85.35826pt>
-File: ./images//dinamica-roz-3.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-3.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-roz-3.pdf , page1 used on input line 56.
+<./images/dinamica-roz-3.pdf, id=891, page=1, 199.1693pt x 85.35826pt>
+File: ./images/dinamica-roz-3.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-3.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-roz-3.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 98.76947pt.
 )
 LaTeX Info: Redefining \. on input line 1451.
 LaTeX Info: Redefining \% on input line 1451.
- [34 <./images//dinamica-circular-5.pdf> <./images//dinamica-roz-2.pdf
+ [34 <./images/dinamica-circular-5.pdf> <./images/dinamica-roz-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-roz-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-roz-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1453.
  (images/dinamica-roz-4.pdf_tex
-<./images//dinamica-roz-4.pdf, id=912, page=1, 170.71654pt x 142.26378pt>
-File: ./images//dinamica-roz-4.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-4.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-roz-4.pdf , page1 used on input line 56.
+<./images/dinamica-roz-4.pdf, id=912, page=1, 170.71654pt x 142.26378pt>
+File: ./images/dinamica-roz-4.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-4.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-roz-4.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 192.05432pt.
-<./images//dinamica-roz-4.pdf, id=913, page=2, 170.71654pt x 142.26378pt>
-File: ./images//dinamica-roz-4.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-4.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-roz-4.pdf , page2 used on input line 60.
+<./images/dinamica-roz-4.pdf, id=913, page=2, 170.71654pt x 142.26378pt>
+File: ./images/dinamica-roz-4.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-4.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-roz-4.pdf , page2 used on input line 60.
 (pdftex.def)             Requested size: 230.44844pt x 192.05432pt.
-<./images//dinamica-roz-4.pdf, id=914, page=3, 170.71654pt x 142.26378pt>
-File: ./images//dinamica-roz-4.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-4.pdf, page 3>
-Package pdftex.def Info: ./images//dinamica-roz-4.pdf , page3 used on input line 62.
+<./images/dinamica-roz-4.pdf, id=914, page=3, 170.71654pt x 142.26378pt>
+File: ./images/dinamica-roz-4.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-4.pdf, page 3>
+Package pdftex.def Info: ./images/dinamica-roz-4.pdf , page3 used on input line 62.
 (pdftex.def)             Requested size: 230.44844pt x 192.05432pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1468.
  (images/dinamica-roz-1.pdf_tex
-<./images//dinamica-roz-1.pdf, id=915, page=1, 284.52756pt x 142.26378pt>
-File: ./images//dinamica-roz-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-1.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-roz-1.pdf , page1 used on input line 56.
+<./images/dinamica-roz-1.pdf, id=915, page=1, 284.52756pt x 142.26378pt>
+File: ./images/dinamica-roz-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-1.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-roz-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 115.22868pt.
-<./images//dinamica-roz-1.pdf, id=916, page=2, 284.52756pt x 142.26378pt>
-File: ./images//dinamica-roz-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-1.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-roz-1.pdf , page2 used on input line 58.
+<./images/dinamica-roz-1.pdf, id=916, page=2, 284.52756pt x 142.26378pt>
+File: ./images/dinamica-roz-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-1.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-roz-1.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 230.44844pt x 115.22868pt.
 )
 Package mdframed Info: Box was splittet wrong
@@ -1586,38 +1588,38 @@ Package mdframed Info: Box was splittet wrong
 (mdframed)              on input line 1483.
 LaTeX Info: Redefining \. on input line 1483.
 LaTeX Info: Redefining \% on input line 1483.
- [35 <./images//dinamica-roz-3.pdf> <./images//dinamica-roz-4.pdf
+ [35 <./images/dinamica-roz-3.pdf> <./images/dinamica-roz-4.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-roz-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-roz-4.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-roz-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-roz-4.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-roz-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-roz-4.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-roz-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-roz-4.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-roz-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-roz-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1485.
 Package mdframed Info: mdframed works in twoside mode on input line 1492.
  (images/dinamica-roz-5.pdf_tex
-<./images//dinamica-roz-5.pdf, id=928, page=1, 341.43306pt x 85.35826pt>
-File: ./images//dinamica-roz-5.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-5.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-roz-5.pdf , page1 used on input line 56.
+<./images/dinamica-roz-5.pdf, id=928, page=1, 341.43306pt x 85.35826pt>
+File: ./images/dinamica-roz-5.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-5.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-roz-5.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 368.7189pt x 92.18553pt.
-<./images//dinamica-roz-5.pdf, id=929, page=2, 341.43306pt x 85.35826pt>
-File: ./images//dinamica-roz-5.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-5.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-roz-5.pdf , page2 used on input line 58.
+<./images/dinamica-roz-5.pdf, id=929, page=2, 341.43306pt x 85.35826pt>
+File: ./images/dinamica-roz-5.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-5.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-roz-5.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 368.7189pt x 92.18553pt.
-<./images//dinamica-roz-5.pdf, id=930, page=3, 341.43306pt x 85.35826pt>
-File: ./images//dinamica-roz-5.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-5.pdf, page 3>
-Package pdftex.def Info: ./images//dinamica-roz-5.pdf , page3 used on input line 60.
+<./images/dinamica-roz-5.pdf, id=930, page=3, 341.43306pt x 85.35826pt>
+File: ./images/dinamica-roz-5.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-5.pdf, page 3>
+Package pdftex.def Info: ./images/dinamica-roz-5.pdf , page3 used on input line 60.
 (pdftex.def)             Requested size: 368.7189pt x 92.18553pt.
-<./images//dinamica-roz-5.pdf, id=931, page=4, 341.43306pt x 85.35826pt>
-File: ./images//dinamica-roz-5.pdf Graphic file (type pdf)
-<use ./images//dinamica-roz-5.pdf, page 4>
-Package pdftex.def Info: ./images//dinamica-roz-5.pdf , page4 used on input line 65.
+<./images/dinamica-roz-5.pdf, id=931, page=4, 341.43306pt x 85.35826pt>
+File: ./images/dinamica-roz-5.pdf Graphic file (type pdf)
+<use ./images/dinamica-roz-5.pdf, page 4>
+Package pdftex.def Info: ./images/dinamica-roz-5.pdf , page4 used on input line 65.
 (pdftex.def)             Requested size: 368.7189pt x 92.18553pt.
 )
 Package mdframed Info: Box was splittet wrong
@@ -1625,90 +1627,90 @@ Package mdframed Info: Box was splittet wrong
 (mdframed)              on input line 1508.
 LaTeX Info: Redefining \. on input line 1508.
 LaTeX Info: Redefining \% on input line 1508.
- [36 <./images//dinamica-roz-1.pdf> <./images//dinamica-roz-1.pdf
+ [36 <./images/dinamica-roz-1.pdf> <./images/dinamica-roz-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-roz-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-roz-5.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-roz-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-roz-5.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-roz-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-roz-5.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-roz-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-roz-5.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-roz-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-roz-5.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-roz-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-roz-5.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-roz-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-roz-5.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-roz-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-roz-5.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-roz-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-roz-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1513.
 Package mdframed Info: mdframed works in twoside mode on input line 1529.
  (images/dinamica-elastica-2.pdf_tex
-<./images//dinamica-elastica-2.pdf, id=948, page=1, 455.2441pt x 113.81102pt>
-File: ./images//dinamica-elastica-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-elastica-2.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-elastica-2.pdf , page1 used on input line 56.
+<./images/dinamica-elastica-2.pdf, id=948, page=1, 455.2441pt x 113.81102pt>
+File: ./images/dinamica-elastica-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-elastica-2.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-elastica-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 276.54094pt x 69.13806pt.
-<./images//dinamica-elastica-2.pdf, id=949, page=2, 455.2441pt x 113.81102pt>
-File: ./images//dinamica-elastica-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-elastica-2.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-elastica-2.pdf , page2 used on input line 60.
+<./images/dinamica-elastica-2.pdf, id=949, page=2, 455.2441pt x 113.81102pt>
+File: ./images/dinamica-elastica-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-elastica-2.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-elastica-2.pdf , page2 used on input line 60.
 (pdftex.def)             Requested size: 276.54094pt x 69.13806pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1542.
 LaTeX Info: Redefining \. on input line 1553.
 LaTeX Info: Redefining \% on input line 1553.
- [37 <./images//dinamica-elastica-2.pdf> <./images//dinamica-elastica-2.pdf
+ [37 <./images/dinamica-elastica-2.pdf> <./images/dinamica-elastica-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-elastica-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-elastica-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1555.
  (images/dinamica-elastica-1.pdf_tex
-<./images//dinamica-elastica-1.pdf, id=963, page=1, 398.3386pt x 199.1693pt>
-File: ./images//dinamica-elastica-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-elastica-1.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-elastica-1.pdf , page1 used on input line 56.
+<./images/dinamica-elastica-1.pdf, id=963, page=1, 398.3386pt x 199.1693pt>
+File: ./images/dinamica-elastica-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-elastica-1.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-elastica-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 115.2265pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1570.
  (images/dinamica-circular-2.pdf_tex
-<./images//dinamica-circular-2.pdf, id=964, page=1, 369.88583pt x 170.71654pt>
-File: ./images//dinamica-circular-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-circular-2.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-circular-2.pdf , page1 used on input line 56.
+<./images/dinamica-circular-2.pdf, id=964, page=1, 369.88583pt x 170.71654pt>
+File: ./images/dinamica-circular-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-circular-2.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-circular-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 106.36153pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1587.
  (images/dinamica-osc-4.pdf_tex
-<./images//dinamica-osc-4.pdf, id=965, page=1, 199.1693pt x 170.71654pt>
-File: ./images//dinamica-osc-4.pdf Graphic file (type pdf)
-<use ./images//dinamica-osc-4.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-osc-4.pdf , page1 used on input line 56.
+<./images/dinamica-osc-4.pdf, id=965, page=1, 199.1693pt x 170.71654pt>
+File: ./images/dinamica-osc-4.pdf Graphic file (type pdf)
+<use ./images/dinamica-osc-4.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-osc-4.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 184.35593pt x 158.02753pt.
 )
 LaTeX Info: Redefining \. on input line 1604.
 LaTeX Info: Redefining \% on input line 1604.
- [38 <./images//dinamica-elastica-1.pdf> <./images//dinamica-circular-2.pdf
+ [38 <./images/dinamica-elastica-1.pdf> <./images/dinamica-circular-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-circular-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-circular-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1606.
 Package mdframed Info: mdframed works in twoside mode on input line 1613.
  (images/dinamica-osc-3.pdf_tex
-<./images//dinamica-osc-3.pdf, id=982, page=1, 483.69685pt x 227.62204pt>
-File: ./images//dinamica-osc-3.pdf Graphic file (type pdf)
-<use ./images//dinamica-osc-3.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-osc-3.pdf , page1 used on input line 56.
+<./images/dinamica-osc-3.pdf, id=982, page=1, 483.69685pt x 227.62204pt>
+File: ./images/dinamica-osc-3.pdf Graphic file (type pdf)
+<use ./images/dinamica-osc-3.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-osc-3.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 276.54094pt x 130.13838pt.
-<./images//dinamica-osc-3.pdf, id=983, page=2, 483.69685pt x 227.62204pt>
-File: ./images//dinamica-osc-3.pdf Graphic file (type pdf)
-<use ./images//dinamica-osc-3.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-osc-3.pdf , page2 used on input line 58.
+<./images/dinamica-osc-3.pdf, id=983, page=2, 483.69685pt x 227.62204pt>
+File: ./images/dinamica-osc-3.pdf Graphic file (type pdf)
+<use ./images/dinamica-osc-3.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-osc-3.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 276.54094pt x 130.13838pt.
-<./images//dinamica-osc-3.pdf, id=984, page=3, 483.69685pt x 227.62204pt>
-File: ./images//dinamica-osc-3.pdf Graphic file (type pdf)
-<use ./images//dinamica-osc-3.pdf, page 3>
-Package pdftex.def Info: ./images//dinamica-osc-3.pdf , page3 used on input line 60.
+<./images/dinamica-osc-3.pdf, id=984, page=3, 483.69685pt x 227.62204pt>
+File: ./images/dinamica-osc-3.pdf Graphic file (type pdf)
+<use ./images/dinamica-osc-3.pdf, page 3>
+Package pdftex.def Info: ./images/dinamica-osc-3.pdf , page3 used on input line 60.
 (pdftex.def)             Requested size: 276.54094pt x 130.13838pt.
 )
 Package mdframed Info: Box was splittet wrong
@@ -1716,56 +1718,56 @@ Package mdframed Info: Box was splittet wrong
 (mdframed)              on input line 1627.
 LaTeX Info: Redefining \. on input line 1627.
 LaTeX Info: Redefining \% on input line 1627.
- [39 <./images//dinamica-osc-4.pdf> <./images//dinamica-osc-3.pdf
+ [39 <./images/dinamica-osc-4.pdf> <./images/dinamica-osc-3.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-osc-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-osc-3.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-osc-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-osc-3.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-osc-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-osc-3.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-osc-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-osc-3.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-osc-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-osc-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1629.
  (images/dinamica-osc-1.pdf_tex
-<./images//dinamica-osc-1.pdf, id=999, page=1, 199.1693pt x 113.81102pt>
-File: ./images//dinamica-osc-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-osc-1.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-osc-1.pdf , page1 used on input line 56.
+<./images/dinamica-osc-1.pdf, id=999, page=1, 199.1693pt x 113.81102pt>
+File: ./images/dinamica-osc-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-osc-1.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-osc-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 131.69264pt.
-<./images//dinamica-osc-1.pdf, id=1000, page=2, 199.1693pt x 113.81102pt>
-File: ./images//dinamica-osc-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-osc-1.pdf, page 2>
-Package pdftex.def Info: ./images//dinamica-osc-1.pdf , page2 used on input line 58.
+<./images/dinamica-osc-1.pdf, id=1000, page=2, 199.1693pt x 113.81102pt>
+File: ./images/dinamica-osc-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-osc-1.pdf, page 2>
+Package pdftex.def Info: ./images/dinamica-osc-1.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 230.44844pt x 131.69264pt.
-<./images//dinamica-osc-1.pdf, id=1001, page=3, 199.1693pt x 113.81102pt>
-File: ./images//dinamica-osc-1.pdf Graphic file (type pdf)
-<use ./images//dinamica-osc-1.pdf, page 3>
-Package pdftex.def Info: ./images//dinamica-osc-1.pdf , page3 used on input line 60.
+<./images/dinamica-osc-1.pdf, id=1001, page=3, 199.1693pt x 113.81102pt>
+File: ./images/dinamica-osc-1.pdf Graphic file (type pdf)
+<use ./images/dinamica-osc-1.pdf, page 3>
+Package pdftex.def Info: ./images/dinamica-osc-1.pdf , page3 used on input line 60.
 (pdftex.def)             Requested size: 230.44844pt x 131.69264pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1643.
 Package mdframed Info: mdframed works in twoside mode on input line 1651.
  (images/dinamica-osc-2.pdf_tex
-<./images//dinamica-osc-2.pdf, id=1002, page=1, 455.2441pt x 113.81102pt>
-File: ./images//dinamica-osc-2.pdf Graphic file (type pdf)
-<use ./images//dinamica-osc-2.pdf, page 1>
-Package pdftex.def Info: ./images//dinamica-osc-2.pdf , page1 used on input line 56.
+<./images/dinamica-osc-2.pdf, id=1002, page=1, 455.2441pt x 113.81102pt>
+File: ./images/dinamica-osc-2.pdf Graphic file (type pdf)
+<use ./images/dinamica-osc-2.pdf, page 1>
+Package pdftex.def Info: ./images/dinamica-osc-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 322.6264pt x 80.66049pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1667.
 Package mdframed Info: Not enough space on this page on input line 1671.
 LaTeX Info: Redefining \. on input line 1671.
 LaTeX Info: Redefining \% on input line 1671.
- [40 <./images//dinamica-osc-1.pdf> <./images//dinamica-osc-1.pdf
+ [40 <./images/dinamica-osc-1.pdf> <./images/dinamica-osc-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-osc-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-osc-1.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-osc-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-osc-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-osc-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//dinamica-osc-2.pdf
+pdfTeX warning: pdflatex (file ./images/dinamica-osc-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/dinamica-osc-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//dinamica-osc-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/dinamica-osc-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: Not enough space on this page on input line 1671.
 Package mdframed Info: mdframed works in twoside mode on input line 1673.
@@ -1784,15 +1786,15 @@ Package mdframed Info: mdframed works in twoside mode on input line 1705.
 Package mdframed Info: mdframed works in twoside mode on input line 1713.
 Package mdframed Info: mdframed works in twoside mode on input line 1721.
 (images/cant-mov-1.pdf_tex
-<./images//cant-mov-1.pdf, id=1044, page=1, 203.04742pt x 176.38759pt>
-File: ./images//cant-mov-1.pdf Graphic file (type pdf)
-<use ./images//cant-mov-1.pdf, page 1>
-Package pdftex.def Info: ./images//cant-mov-1.pdf , page1 used on input line 56.
+<./images/cant-mov-1.pdf, id=1044, page=1, 203.04742pt x 176.38759pt>
+File: ./images/cant-mov-1.pdf Graphic file (type pdf)
+<use ./images/cant-mov-1.pdf, page 1>
+Package pdftex.def Info: ./images/cant-mov-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 200.19035pt.
-<./images//cant-mov-1.pdf, id=1045, page=2, 203.04742pt x 176.38759pt>
-File: ./images//cant-mov-1.pdf Graphic file (type pdf)
-<use ./images//cant-mov-1.pdf, page 2>
-Package pdftex.def Info: ./images//cant-mov-1.pdf , page2 used on input line 60.
+<./images/cant-mov-1.pdf, id=1045, page=2, 203.04742pt x 176.38759pt>
+File: ./images/cant-mov-1.pdf Graphic file (type pdf)
+<use ./images/cant-mov-1.pdf, page 2>
+Package pdftex.def Info: ./images/cant-mov-1.pdf , page2 used on input line 60.
 (pdftex.def)             Requested size: 230.44844pt x 200.19035pt.
 )
 Package mdframed Info: Not enough space on this page on input line 1730.
@@ -1801,55 +1803,55 @@ Package mdframed Info: Not enough space on this page on input line 1730.
 Package mdframed Info: mdframed works in twoside mode on input line 1732.
 Package mdframed Info: mdframed works in twoside mode on input line 1740.
  (images/cant-mov-2.pdf_tex
-<./images//cant-mov-2.pdf, id=1056, page=1, 667.01834pt x 225.6893pt>
-File: ./images//cant-mov-2.pdf Graphic file (type pdf)
-<use ./images//cant-mov-2.pdf, page 1>
-Package pdftex.def Info: ./images//cant-mov-2.pdf , page1 used on input line 56.
+<./images/cant-mov-2.pdf, id=1056, page=1, 667.01834pt x 225.6893pt>
+File: ./images/cant-mov-2.pdf Graphic file (type pdf)
+<use ./images/cant-mov-2.pdf, page 1>
+Package pdftex.def Info: ./images/cant-mov-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 77.97308pt.
-<./images//cant-mov-2.pdf, id=1057, page=2, 667.01834pt x 225.6893pt>
-File: ./images//cant-mov-2.pdf Graphic file (type pdf)
-<use ./images//cant-mov-2.pdf, page 2>
-Package pdftex.def Info: ./images//cant-mov-2.pdf , page2 used on input line 60.
+<./images/cant-mov-2.pdf, id=1057, page=2, 667.01834pt x 225.6893pt>
+File: ./images/cant-mov-2.pdf Graphic file (type pdf)
+<use ./images/cant-mov-2.pdf, page 2>
+Package pdftex.def Info: ./images/cant-mov-2.pdf , page2 used on input line 60.
 (pdftex.def)             Requested size: 230.44844pt x 77.97308pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1756.
  (images/cant-mov-3.pdf_tex
-<./images//cant-mov-3.pdf, id=1058, page=1, 164.92853pt x 141.63042pt>
-File: ./images//cant-mov-3.pdf Graphic file (type pdf)
-<use ./images//cant-mov-3.pdf, page 1>
-Package pdftex.def Info: ./images//cant-mov-3.pdf , page1 used on input line 56.
+<./images/cant-mov-3.pdf, id=1058, page=1, 164.92853pt x 141.63042pt>
+File: ./images/cant-mov-3.pdf Graphic file (type pdf)
+<use ./images/cant-mov-3.pdf, page 1>
+Package pdftex.def Info: ./images/cant-mov-3.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 197.90085pt.
 )
 Package mdframed Info: Not enough space on this page on input line 1771.
 LaTeX Info: Redefining \. on input line 1771.
 LaTeX Info: Redefining \% on input line 1771.
- [44 <./images//cant-mov-1.pdf> <./images//cant-mov-1.pdf
+ [44 <./images/cant-mov-1.pdf> <./images/cant-mov-1.pdf
 
-pdfTeX warning: pdflatex (file ./images//cant-mov-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//cant-mov-2.pdf
+pdfTeX warning: pdflatex (file ./images/cant-mov-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/cant-mov-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//cant-mov-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//cant-mov-2.pdf
+pdfTeX warning: pdflatex (file ./images/cant-mov-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/cant-mov-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//cant-mov-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/cant-mov-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: Not enough space on this page on input line 1771.
 Package mdframed Info: mdframed works in twoside mode on input line 1773.
 Package mdframed Info: mdframed works in twoside mode on input line 1786.
 LaTeX Info: Redefining \. on input line 1802.
 LaTeX Info: Redefining \% on input line 1802.
- [45 <./images//cant-mov-3.pdf>]
+ [45 <./images/cant-mov-3.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 1804.
  (images/cant-mov-4.pdf_tex
-<./images//cant-mov-4.pdf, id=1096, page=1, 250.85196pt x 202.36537pt>
-File: ./images//cant-mov-4.pdf Graphic file (type pdf)
-<use ./images//cant-mov-4.pdf, page 1>
-Package pdftex.def Info: ./images//cant-mov-4.pdf , page1 used on input line 56.
+<./images/cant-mov-4.pdf, id=1096, page=1, 250.85196pt x 202.36537pt>
+File: ./images/cant-mov-4.pdf Graphic file (type pdf)
+<use ./images/cant-mov-4.pdf, page 1>
+Package pdftex.def Info: ./images/cant-mov-4.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 185.90974pt.
-<./images//cant-mov-4.pdf, id=1097, page=2, 250.85196pt x 202.36537pt>
-File: ./images//cant-mov-4.pdf Graphic file (type pdf)
-<use ./images//cant-mov-4.pdf, page 2>
-Package pdftex.def Info: ./images//cant-mov-4.pdf , page2 used on input line 58.
+<./images/cant-mov-4.pdf, id=1097, page=2, 250.85196pt x 202.36537pt>
+File: ./images/cant-mov-4.pdf Graphic file (type pdf)
+<use ./images/cant-mov-4.pdf, page 2>
+Package pdftex.def Info: ./images/cant-mov-4.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 230.44844pt x 185.90974pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1817.
@@ -1857,235 +1859,301 @@ Package mdframed Info: mdframed works in twoside mode on input line 1835.
 Package mdframed Info: Not enough space on this page on input line 1843.
 LaTeX Info: Redefining \. on input line 1843.
 LaTeX Info: Redefining \% on input line 1843.
- [46 <./images//cant-mov-4.pdf> <./images//cant-mov-4.pdf
+ [46 <./images/cant-mov-4.pdf> <./images/cant-mov-4.pdf
 
-pdfTeX warning: pdflatex (file ./images//cant-mov-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/cant-mov-4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: Not enough space on this page on input line 1843.
 Package mdframed Info: mdframed works in twoside mode on input line 1845.
  (images/cant-mov-5.pdf_tex
-<./images//cant-mov-5.pdf, id=1116, page=1, 123.85716pt x 145.8691pt>
-File: ./images//cant-mov-5.pdf Graphic file (type pdf)
-<use ./images//cant-mov-5.pdf, page 1>
-Package pdftex.def Info: ./images//cant-mov-5.pdf , page1 used on input line 56.
+<./images/cant-mov-5.pdf, id=1116, page=1, 123.85716pt x 145.8691pt>
+File: ./images/cant-mov-5.pdf Graphic file (type pdf)
+<use ./images/cant-mov-5.pdf, page 1>
+Package pdftex.def Info: ./images/cant-mov-5.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 271.43166pt.
-<./images//cant-mov-5.pdf, id=1117, page=2, 123.85716pt x 145.8691pt>
-File: ./images//cant-mov-5.pdf Graphic file (type pdf)
-<use ./images//cant-mov-5.pdf, page 2>
-Package pdftex.def Info: ./images//cant-mov-5.pdf , page2 used on input line 61.
+<./images/cant-mov-5.pdf, id=1117, page=2, 123.85716pt x 145.8691pt>
+File: ./images/cant-mov-5.pdf Graphic file (type pdf)
+<use ./images/cant-mov-5.pdf, page 2>
+Package pdftex.def Info: ./images/cant-mov-5.pdf , page2 used on input line 61.
 (pdftex.def)             Requested size: 230.44844pt x 271.43166pt.
-<./images//cant-mov-5.pdf, id=1118, page=3, 123.85716pt x 145.8691pt>
-File: ./images//cant-mov-5.pdf Graphic file (type pdf)
-<use ./images//cant-mov-5.pdf, page 3>
-Package pdftex.def Info: ./images//cant-mov-5.pdf , page3 used on input line 63.
+<./images/cant-mov-5.pdf, id=1118, page=3, 123.85716pt x 145.8691pt>
+File: ./images/cant-mov-5.pdf Graphic file (type pdf)
+<use ./images/cant-mov-5.pdf, page 3>
+Package pdftex.def Info: ./images/cant-mov-5.pdf , page3 used on input line 63.
 (pdftex.def)             Requested size: 230.44844pt x 271.43166pt.
 )
 Package mdframed Info: mdframed works in twoside mode on input line 1866.
 LaTeX Info: Redefining \. on input line 1876.
 LaTeX Info: Redefining \% on input line 1876.
- [47 <./images//cant-mov-5.pdf> <./images//cant-mov-5.pdf
+ [47 <./images/cant-mov-5.pdf> <./images/cant-mov-5.pdf
 
-pdfTeX warning: pdflatex (file ./images//cant-mov-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//cant-mov-5.pdf
+pdfTeX warning: pdflatex (file ./images/cant-mov-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/cant-mov-5.pdf
 
-pdfTeX warning: pdflatex (file ./images//cant-mov-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/cant-mov-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package mdframed Info: mdframed works in twoside mode on input line 1878.
 Package mdframed Info: mdframed works in twoside mode on input line 1889.
-Package mdframed Info: mdframed works in twoside mode on input line 1907.
-Package mdframed Info: mdframed works in twoside mode on input line 1914.
-Package mdframed Info: mdframed works in twoside mode on input line 1921.
-LaTeX Info: Redefining \. on input line 1933.
-LaTeX Info: Redefining \% on input line 1933.
- [48]
-Package mdframed Info: mdframed works in twoside mode on input line 1935.
-Package mdframed Info: mdframed works in twoside mode on input line 1945.
-Package mdframed Info: mdframed works in twoside mode on input line 1964.
-LaTeX Info: Redefining \. on input line 1979.
-LaTeX Info: Redefining \% on input line 1979.
- [49]
-Package mdframed Info: mdframed works in twoside mode on input line 1981.
-Package mdframed Info: mdframed works in twoside mode on input line 2000.
-Package mdframed Info: mdframed works in twoside mode on input line 2008.
-Package mdframed Info: mdframed works in twoside mode on input line 2027.
-LaTeX Info: Redefining \. on input line 2040.
-LaTeX Info: Redefining \% on input line 2040.
- [50]
-Package mdframed Info: Not enough space on this page on input line 2040.
-Package mdframed Info: mdframed works in twoside mode on input line 2042.
-LaTeX Info: Redefining \. on input line 2059.
-LaTeX Info: Redefining \% on input line 2059.
- [51]
-LaTeX Info: Redefining \. on input line 2059.
-LaTeX Info: Redefining \% on input line 2059.
- [52
+ (images/trabajo-1.pdf_tex
+<./images/trabajo-1.pdf, id=1131, page=1, 284.52756pt x 142.26378pt>
+File: ./images/trabajo-1.pdf Graphic file (type pdf)
+<use ./images/trabajo-1.pdf, page 1>
+Package pdftex.def Info: ./images/trabajo-1.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 230.44844pt x 115.22868pt.
 
-]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 57.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 57.
+
+Missing character: There is no ° in font cmr12!
+<./images/trabajo-1.pdf, id=1132, page=2, 284.52756pt x 142.26378pt>
+File: ./images/trabajo-1.pdf Graphic file (type pdf)
+<use ./images/trabajo-1.pdf, page 2>
+Package pdftex.def Info: ./images/trabajo-1.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 230.44844pt x 115.22868pt.
+)
+Package mdframed Info: mdframed works in twoside mode on input line 1911.
+ (images/trabajo-2.pdf_tex
+<./images/trabajo-2.pdf, id=1133, page=1, 284.52756pt x 142.26378pt>
+File: ./images/trabajo-2.pdf Graphic file (type pdf)
+<use ./images/trabajo-2.pdf, page 1>
+Package pdftex.def Info: ./images/trabajo-2.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 230.44844pt x 115.22868pt.
+<./images/trabajo-2.pdf, id=1134, page=2, 284.52756pt x 142.26378pt>
+File: ./images/trabajo-2.pdf Graphic file (type pdf)
+<use ./images/trabajo-2.pdf, page 2>
+Package pdftex.def Info: ./images/trabajo-2.pdf , page2 used on input line 71.
+(pdftex.def)             Requested size: 230.44844pt x 115.22868pt.
+)
+LaTeX Info: Redefining \. on input line 1920.
+LaTeX Info: Redefining \% on input line 1920.
+ [48 <./images/trabajo-1.pdf> <./images/trabajo-1.pdf
+
+pdfTeX warning: pdflatex (file ./images/trabajo-1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Package mdframed Info: mdframed works in twoside mode on input line 1922.
+Package mdframed Info: mdframed works in twoside mode on input line 1929.
+Package mdframed Info: mdframed works in twoside mode on input line 1943.
+Package mdframed Info: mdframed works in twoside mode on input line 1953.
+ (images/trabajo-3.pdf_tex
+<./images/Trabajo-3.pdf, id=1156, page=1, 341.43306pt x 142.26378pt>
+File: ./images/Trabajo-3.pdf Graphic file (type pdf)
+<use ./images/Trabajo-3.pdf, page 1>
+Package pdftex.def Info: ./images/Trabajo-3.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 230.44844pt x 96.02173pt.
+<./images/Trabajo-3.pdf, id=1157, page=2, 341.43306pt x 142.26378pt>
+File: ./images/Trabajo-3.pdf Graphic file (type pdf)
+<use ./images/Trabajo-3.pdf, page 2>
+Package pdftex.def Info: ./images/Trabajo-3.pdf , page2 used on input line 65.
+(pdftex.def)             Requested size: 230.44844pt x 96.02173pt.
+)
+LaTeX Info: Redefining \. on input line 1974.
+LaTeX Info: Redefining \% on input line 1974.
+ [49 <./images/trabajo-2.pdf> <./images/trabajo-2.pdf
+
+pdfTeX warning: pdflatex (file ./images/trabajo-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Package mdframed Info: mdframed works in twoside mode on input line 1976.
+Package mdframed Info: mdframed works in twoside mode on input line 1993.
+ (images/trabajo-4.pdf_tex
+<./images/trabajo-4.pdf, id=1177, page=1, 284.52756pt x 142.26378pt>
+File: ./images/trabajo-4.pdf Graphic file (type pdf)
+<use ./images/trabajo-4.pdf, page 1>
+Package pdftex.def Info: ./images/trabajo-4.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 230.44844pt x 115.22868pt.
+)
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 2012.
+LaTeX Info: Redefining \. on input line 2012.
+LaTeX Info: Redefining \% on input line 2012.
+ [50 <./images/Trabajo-3.pdf> <./images/Trabajo-3.pdf
+
+pdfTeX warning: pdflatex (file ./images/Trabajo-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Package mdframed Info: mdframed works in twoside mode on input line 2016.
+Package mdframed Info: mdframed works in twoside mode on input line 2024.
+Package mdframed Info: mdframed works in twoside mode on input line 2043.
+LaTeX Info: Redefining \. on input line 2056.
+LaTeX Info: Redefining \% on input line 2056.
+ [51 <./images/trabajo-4.pdf>]
+Package mdframed Info: mdframed works in twoside mode on input line 2058.
+LaTeX Info: Redefining \. on input line 2075.
+LaTeX Info: Redefining \% on input line 2075.
+ [52]
 Ap\'{e}ndice A.
-Package mdframed Info: mdframed works in twoside mode on input line 2067.
+Package mdframed Info: mdframed works in twoside mode on input line 2083.
 (images/mate-1.pdf_tex
-<./images//mate-1.pdf, id=1214, page=1, 341.43306pt x 256.0748pt>
-File: ./images//mate-1.pdf Graphic file (type pdf)
-<use ./images//mate-1.pdf, page 1>
-Package pdftex.def Info: ./images//mate-1.pdf , page1 used on input line 56.
+<./images/mate-1.pdf, id=1229, page=1, 341.43306pt x 256.0748pt>
+File: ./images/mate-1.pdf Graphic file (type pdf)
+<use ./images/mate-1.pdf, page 1>
+Package pdftex.def Info: ./images/mate-1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 172.83911pt.
 )
-Package mdframed Info: mdframed works in twoside mode on input line 2079.
+Package mdframed Info: mdframed works in twoside mode on input line 2095.
  (images/mate-2.pdf_tex
-<./images//mate-2.pdf, id=1215, page=1, 426.79132pt x 199.1693pt>
-File: ./images//mate-2.pdf Graphic file (type pdf)
-<use ./images//mate-2.pdf, page 1>
-Package pdftex.def Info: ./images//mate-2.pdf , page1 used on input line 56.
+<./images/mate-2.pdf, id=1230, page=1, 426.79132pt x 199.1693pt>
+File: ./images/mate-2.pdf Graphic file (type pdf)
+<use ./images/mate-2.pdf, page 1>
+Package pdftex.def Info: ./images/mate-2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 107.54373pt.
-<./images//mate-2.pdf, id=1216, page=2, 426.79132pt x 199.1693pt>
-File: ./images//mate-2.pdf Graphic file (type pdf)
-<use ./images//mate-2.pdf, page 2>
-Package pdftex.def Info: ./images//mate-2.pdf , page2 used on input line 59.
+<./images/mate-2.pdf, id=1231, page=2, 426.79132pt x 199.1693pt>
+File: ./images/mate-2.pdf Graphic file (type pdf)
+<use ./images/mate-2.pdf, page 2>
+Package pdftex.def Info: ./images/mate-2.pdf , page2 used on input line 59.
 (pdftex.def)             Requested size: 230.44844pt x 107.54373pt.
-) [53 <./images//mate-1.pdf>]
-Package mdframed Info: mdframed works in twoside mode on input line 2091.
-Package mdframed Info: mdframed works in twoside mode on input line 2110.
+) [53
+
+ <./images/mate-1.pdf>]
+Package mdframed Info: mdframed works in twoside mode on input line 2107.
+Package mdframed Info: mdframed works in twoside mode on input line 2126.
  (images/mate-3.pdf_tex
-<./images//mate-3.pdf, id=1225, page=1, 341.43306pt x 256.0748pt>
-File: ./images//mate-3.pdf Graphic file (type pdf)
-<use ./images//mate-3.pdf, page 1>
-Package pdftex.def Info: ./images//mate-3.pdf , page1 used on input line 56.
+<./images/mate-3.pdf, id=1240, page=1, 341.43306pt x 256.0748pt>
+File: ./images/mate-3.pdf Graphic file (type pdf)
+<use ./images/mate-3.pdf, page 1>
+Package pdftex.def Info: ./images/mate-3.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 184.35593pt x 138.27051pt.
 )
-Package mdframed Info: mdframed works in twoside mode on input line 2120.
-Package mdframed Info: mdframed works in twoside mode on input line 2127.
+Package mdframed Info: mdframed works in twoside mode on input line 2136.
+Package mdframed Info: mdframed works in twoside mode on input line 2143.
  (images/mate-4.pdf_tex
-<./images//mate-4.pdf, id=1226, page=1, 512.1496pt x 170.71654pt>
-File: ./images//mate-4.pdf Graphic file (type pdf)
-<use ./images//mate-4.pdf, page 1>
-Package pdftex.def Info: ./images//mate-4.pdf , page1 used on input line 56.
+<./images/mate-4.pdf, id=1241, page=1, 512.1496pt x 170.71654pt>
+File: ./images/mate-4.pdf Graphic file (type pdf)
+<use ./images/mate-4.pdf, page 1>
+Package pdftex.def Info: ./images/mate-4.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 368.7189pt x 122.91058pt.
 )
-LaTeX Info: Redefining \. on input line 2136.
-LaTeX Info: Redefining \% on input line 2136.
- [54 <./images//mate-2.pdf> <./images//mate-2.pdf
+LaTeX Info: Redefining \. on input line 2152.
+LaTeX Info: Redefining \% on input line 2152.
+ [54 <./images/mate-2.pdf> <./images/mate-2.pdf
 
-pdfTeX warning: pdflatex (file ./images//mate-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//mate-3.pdf
+pdfTeX warning: pdflatex (file ./images/mate-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/mate-3.pdf
 
-pdfTeX warning: pdflatex (file ./images//mate-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/mate-3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Package mdframed Info: mdframed works in twoside mode on input line 2138.
-Package mdframed Info: mdframed works in twoside mode on input line 2147.
+Package mdframed Info: mdframed works in twoside mode on input line 2154.
+Package mdframed Info: mdframed works in twoside mode on input line 2163.
  (images/mate-5.pdf_tex
-<./images//mate-5.pdf, id=1240, page=1, 341.43306pt x 256.0748pt>
-File: ./images//mate-5.pdf Graphic file (type pdf)
-<use ./images//mate-5.pdf, page 1>
-Package pdftex.def Info: ./images//mate-5.pdf , page1 used on input line 56.
+<./images/mate-5.pdf, id=1255, page=1, 341.43306pt x 256.0748pt>
+File: ./images/mate-5.pdf Graphic file (type pdf)
+<use ./images/mate-5.pdf, page 1>
+Package pdftex.def Info: ./images/mate-5.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 230.44844pt x 172.83911pt.
 )
-Package mdframed Info: mdframed works in twoside mode on input line 2163.
+Package mdframed Info: mdframed works in twoside mode on input line 2179.
  (images/mate-6.pdf_tex
-<./images//mate-6.pdf, id=1241, page=1, 512.1496pt x 284.52756pt>
-File: ./images//mate-6.pdf Graphic file (type pdf)
-<use ./images//mate-6.pdf, page 1>
-Package pdftex.def Info: ./images//mate-6.pdf , page1 used on input line 56.
+<./images/mate-6.pdf, id=1256, page=1, 512.1496pt x 284.52756pt>
+File: ./images/mate-6.pdf Graphic file (type pdf)
+<use ./images/mate-6.pdf, page 1>
+Package pdftex.def Info: ./images/mate-6.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 414.80437pt x 230.45303pt.
-<./images//mate-6.pdf, id=1242, page=2, 512.1496pt x 284.52756pt>
-File: ./images//mate-6.pdf Graphic file (type pdf)
-<use ./images//mate-6.pdf, page 2>
-Package pdftex.def Info: ./images//mate-6.pdf , page2 used on input line 62.
+<./images/mate-6.pdf, id=1257, page=2, 512.1496pt x 284.52756pt>
+File: ./images/mate-6.pdf Graphic file (type pdf)
+<use ./images/mate-6.pdf, page 2>
+Package pdftex.def Info: ./images/mate-6.pdf , page2 used on input line 62.
 (pdftex.def)             Requested size: 414.80437pt x 230.45303pt.
 )
-LaTeX Info: Redefining \. on input line 2173.
-LaTeX Info: Redefining \% on input line 2173.
- [55 <./images//mate-4.pdf> <./images//mate-5.pdf
+LaTeX Info: Redefining \. on input line 2189.
+LaTeX Info: Redefining \% on input line 2189.
+ [55 <./images/mate-4.pdf> <./images/mate-5.pdf
 
-pdfTeX warning: pdflatex (file ./images//mate-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/mate-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Package mdframed Info: Not enough space on this page on input line 2173.
-Package mdframed Info: mdframed works in twoside mode on input line 2175.
-Package mdframed Info: mdframed works in twoside mode on input line 2185.
+Package mdframed Info: Not enough space on this page on input line 2189.
+Package mdframed Info: mdframed works in twoside mode on input line 2191.
+Package mdframed Info: mdframed works in twoside mode on input line 2201.
  (images/mate-7.pdf_tex
-<./images//mate-7.pdf, id=1252, page=1, 170.71654pt x 170.71654pt>
-File: ./images//mate-7.pdf Graphic file (type pdf)
-<use ./images//mate-7.pdf, page 1>
-Package pdftex.def Info: ./images//mate-7.pdf , page1 used on input line 56.
+<./images/mate-7.pdf, id=1267, page=1, 170.71654pt x 170.71654pt>
+File: ./images/mate-7.pdf Graphic file (type pdf)
+<use ./images/mate-7.pdf, page 1>
+Package pdftex.def Info: ./images/mate-7.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 92.17796pt x 92.18033pt.
 )
-LaTeX Info: Redefining \. on input line 2200.
-LaTeX Info: Redefining \% on input line 2200.
- [56 <./images//mate-6.pdf> <./images//mate-6.pdf
+LaTeX Info: Redefining \. on input line 2216.
+LaTeX Info: Redefining \% on input line 2216.
+ [56 <./images/mate-6.pdf> <./images/mate-6.pdf
 
-pdfTeX warning: pdflatex (file ./images//mate-6.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <./images//mate-7.pdf
+pdfTeX warning: pdflatex (file ./images/mate-6.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./images/mate-7.pdf
 
-pdfTeX warning: pdflatex (file ./images//mate-7.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./images/mate-7.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Package mdframed Info: mdframed works in twoside mode on input line 2205.
-Package mdframed Info: mdframed works in twoside mode on input line 2217.
-Package mdframed Info: mdframed works in twoside mode on input line 2230.
-Package mdframed Info: mdframed works in twoside mode on input line 2243.
-LaTeX Info: Redefining \. on input line 2251.
-LaTeX Info: Redefining \% on input line 2251.
+Package mdframed Info: mdframed works in twoside mode on input line 2221.
+Package mdframed Info: mdframed works in twoside mode on input line 2233.
+Package mdframed Info: mdframed works in twoside mode on input line 2246.
+Package mdframed Info: mdframed works in twoside mode on input line 2259.
+LaTeX Info: Redefining \. on input line 2267.
+LaTeX Info: Redefining \% on input line 2267.
  [57]
-Package mdframed Info: mdframed works in twoside mode on input line 2253.
-Package mdframed Info: mdframed works in twoside mode on input line 2264.
-Package mdframed Info: mdframed works in twoside mode on input line 2270.
-Package mdframed Info: mdframed works in twoside mode on input line 2283.
-Package mdframed Info: mdframed works in twoside mode on input line 2289.
+Package mdframed Info: mdframed works in twoside mode on input line 2269.
+Package mdframed Info: mdframed works in twoside mode on input line 2280.
+Package mdframed Info: mdframed works in twoside mode on input line 2286.
 Package mdframed Info: mdframed works in twoside mode on input line 2299.
-Package mdframed Info: mdframed works in twoside mode on input line 2308.
-LaTeX Info: Redefining \. on input line 2317.
-LaTeX Info: Redefining \% on input line 2317.
+Package mdframed Info: mdframed works in twoside mode on input line 2305.
+Package mdframed Info: mdframed works in twoside mode on input line 2315.
+Package mdframed Info: mdframed works in twoside mode on input line 2324.
+LaTeX Info: Redefining \. on input line 2333.
+LaTeX Info: Redefining \% on input line 2333.
  [58]
-Package mdframed Info: mdframed works in twoside mode on input line 2319.
-Package mdframed Info: mdframed works in twoside mode on input line 2330.
-Package mdframed Info: mdframed works in twoside mode on input line 2337.
-Package mdframed Info: mdframed works in twoside mode on input line 2347.
+Package mdframed Info: mdframed works in twoside mode on input line 2335.
+Package mdframed Info: mdframed works in twoside mode on input line 2346.
 Package mdframed Info: mdframed works in twoside mode on input line 2353.
-LaTeX Info: Redefining \. on input line 2364.
-LaTeX Info: Redefining \% on input line 2364.
+Package mdframed Info: mdframed works in twoside mode on input line 2363.
+Package mdframed Info: mdframed works in twoside mode on input line 2369.
+LaTeX Info: Redefining \. on input line 2380.
+LaTeX Info: Redefining \% on input line 2380.
  [59]
-Package mdframed Info: mdframed works in twoside mode on input line 2366.
-Package mdframed Info: mdframed works in twoside mode on input line 2377.
-Package mdframed Info: mdframed works in twoside mode on input line 2396.
-Package mdframed Info: mdframed works in twoside mode on input line 2406.
+Package mdframed Info: mdframed works in twoside mode on input line 2382.
+Package mdframed Info: mdframed works in twoside mode on input line 2393.
 Package mdframed Info: mdframed works in twoside mode on input line 2412.
+Package mdframed Info: mdframed works in twoside mode on input line 2422.
+Package mdframed Info: mdframed works in twoside mode on input line 2428.
  (images/mate-8.pdf_tex
-<./images//mate-8.pdf, id=1341, page=1, 170.71654pt x 170.71654pt>
-File: ./images//mate-8.pdf Graphic file (type pdf)
-<use ./images//mate-8.pdf, page 1>
-Package pdftex.def Info: ./images//mate-8.pdf , page1 used on input line 56.
+<./images/mate-8.pdf, id=1356, page=1, 170.71654pt x 170.71654pt>
+File: ./images/mate-8.pdf Graphic file (type pdf)
+<use ./images/mate-8.pdf, page 1>
+Package pdftex.def Info: ./images/mate-8.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 138.27046pt x 138.27962pt.
 )
-Package mdframed Info: Not enough space on this page on input line 2427.
-LaTeX Info: Redefining \. on input line 2427.
-LaTeX Info: Redefining \% on input line 2427.
+Package mdframed Info: Not enough space on this page on input line 2443.
+LaTeX Info: Redefining \. on input line 2443.
+LaTeX Info: Redefining \% on input line 2443.
  [60]
-Package mdframed Info: Not enough space on this page on input line 2427.
-Package mdframed Info: mdframed works in twoside mode on input line 2429.
-Package mdframed Info: mdframed works in twoside mode on input line 2440.
-Package mdframed Info: mdframed works in twoside mode on input line 2447.
-LaTeX Info: Redefining \. on input line 2458.
-LaTeX Info: Redefining \% on input line 2458.
- [61 <./images//mate-8.pdf>]
-LaTeX Info: Redefining \. on input line 2461.
-LaTeX Info: Redefining \% on input line 2461.
+Package mdframed Info: Not enough space on this page on input line 2443.
+Package mdframed Info: mdframed works in twoside mode on input line 2445.
+Package mdframed Info: mdframed works in twoside mode on input line 2456.
+Package mdframed Info: mdframed works in twoside mode on input line 2463.
+LaTeX Info: Redefining \. on input line 2474.
+LaTeX Info: Redefining \% on input line 2474.
+ [61 <./images/mate-8.pdf>]
+LaTeX Info: Redefining \. on input line 2477.
+LaTeX Info: Redefining \% on input line 2477.
  [62] (main.aux
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
 )
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 91722FAA21EEE5F8D87D8FF567A45D10;4721.
  ) 
 Here is how much of TeX's memory you used:
- 30498 strings out of 476331
- 627696 string characters out of 5787764
- 1893660 words of memory out of 5000000
- 49603 multiletter control sequences out of 15000+600000
- 525145 words of font info for 84 fonts, out of 8000000 for 9000
+ 30643 strings out of 474586
+ 631803 string characters out of 5745672
+ 1967558 words of memory out of 5000000
+ 51490 multiletter control sequences out of 15000+600000
+ 570927 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 127i,21n,129p,822b,1107s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 127i,21n,132p,832b,1107s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\marti\AppData\Local\MiKTeX\fonts/pk/ljfour/public/esint/dpi720\esint10.pk> <C:\Users\marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl8.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (66 pages, 1244530 bytes).
+Output written on main.pdf (66 pages, 1252826 bytes).
 PDF statistics:
- 1633 PDF objects out of 1728 (max. 8388607)
+ 1648 PDF objects out of 1728 (max. 8388607)
  702 named destinations out of 1000 (max. 500000)
- 701 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 736 words of extra memory for PDF output out of 10000 (max. 10000000)
 
